@@ -5,12 +5,15 @@
   "repository": "git@github.com:RenanPaixao/dc.portal-back.git",
   "author": "renan <renanlemos21@gmail.com>",
   "license": "MIT",
+  "type": "module",
   "scripts": {
-    "dev": "tsx watch --env-file .env src/http/server.ts"
+    "dev": "tsx watch --env-file .env src/http/server.ts",
+    "seed": "tsx --env-file .env src/db/seed.ts"
   },
   "devDependencies": {
     "@biomejs/biome": "1.9.2",
     "@types/node": "^22.6.1",
+    "@types/pg": "^8.11.10",
     "drizzle-kit": "^0.24.2",
     "tsx": "^4.19.1",
     "typescript": "^5.6.2"
