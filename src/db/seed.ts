@@ -11,6 +11,7 @@ async function seed() {
   const professors = await db
     .insert(schema.professors)
     .values({
+      name: 'Test Professor',
       email: 'professor@test.com',
       profileImg: null,
     })

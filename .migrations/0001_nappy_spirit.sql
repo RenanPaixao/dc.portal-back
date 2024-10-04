@@ -1,0 +1,1 @@
+ALTER TABLE "professors" ADD COLUMN "name" text NOT NULL;

@@ -5,6 +5,7 @@ export const professors = pgTable('professors', {
   id: text('id')
     .primaryKey()
     .$defaultFn(() => createId()),
+  name: text('name').notNull(),
   email: text('email'),
   profileImg: text('profile_img'),
 })
