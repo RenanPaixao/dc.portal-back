@@ -17,6 +17,7 @@ export const courses = pgTable('courses', {
   code: integer('code').notNull(),
   name: text('name').notNull(),
   description: text('description'),
+  period: integer('period'),
 })
 
 export const users = pgTable('users', {
@@ -36,7 +37,6 @@ export const coursesProfessors = pgTable('courses_professors', {
   courseId: text('course_id').references(() => courses.id),
   professorId: text('professor_id').references(() => professors.id),
   year: integer('year').notNull(),
-  period: integer('period').notNull(),
 })
 
 export const comments = pgTable('comments', {

@@ -1,5 +1,74 @@
 import puppeteer from 'puppeteer-core'
 
+async function getAllCoursesFromTab(page: puppeteer.Page, tabName: 'optativas') {
+  const config = {
+    optativas: {
+      tabName: 'Optativas',
+      tableId: '#optativas',
+    },
+  }[tabName]
+
+  await clickOnCourseTab(page, config.tabName)
+  await page.waitForSelector('tr')
+
+  const courses = []
+
+  const linksSelector = `${config.tableId} [title="Visualizar Detalhes do Componente"]`
+  const allLinks = await page.$$(linksSelector)
+
+  for (const index of allLinks.keys()) {
+    // Navigate over all courses re-querying the links
+    const links = await page.$$(linksSelector)
+
+    const navigation = page.waitForNavigation()
+    await links[index].click()
+    await navigation
+    const course = await getCourseDetails(page)
+    courses.push(course)
+
+    // Back to the previous page
+    await page.goBack()
+    await clickOnCourseTab(page, config.tabName)
+    await page.waitForSelector('tr')
+  }
+
+  return courses
+}
+
+async function getCourseDetails(page: puppeteer.Page) {
+  const course = {
+    code: null,
+    name: null,
+    description: null,
+    period: null,
+  }
+
+  const rows = await page.$$('tr')
+
+  for (const row of rows) {
+    if (course.code && course.name && course.description) {
+      break
+    }
+
+    const text = await row.getProperty('innerText')
+    const value = await text.jsonValue()
+    if (value.includes('Código')) {
+      const code = await row.$('td')
+      course.code = await code?.getProperty('innerText').then(p => p.jsonValue())
+    }
+    if (value.includes('Nome')) {
+      const name = await row.$('td')
+      course.name = await name?.getProperty('innerText').then(p => p.jsonValue())
+    }
+    if (value.includes('Ementa')) {
+      const description = await row.$('td')
+      course.description = await description?.getProperty('innerText').then(p => p.jsonValue())
+    }
+  }
+
+  return course
+}
+
 async function clickOnCourseTab(page: puppeteer.Page, tabName: string) {
   await page.waitForSelector('.yui-nav')
   const tabs = await page.$$('.yui-nav a')
@@ -71,7 +140,7 @@ async function scrapProfessors() {
     await page.goto(pageUrl)
     await page.waitForSelector('#id-docente h3')
     const professors = await page.$$eval('.docente', professors => professors.map(p => p.innerText))
-    await page.waitForSelector('.pagina aa')
+    await page.waitForSelector('.pagina a')
   }
 
   await browser.close()
@@ -84,9 +153,8 @@ async function scrapCourses() {
 
   await page.waitForSelector('tr')
   clickOnActiveRow(page).catch(console.error)
-  await clickOnCourseTab(page, 'Optativas')
 
-  return []
+  const courses = await getAllCoursesFromTab(page, 'optativas')
 }
 
 async function main() {
@@ -96,4 +164,4 @@ async function main() {
 main()
   .then(() => console.log('Done!'))
   .catch(console.error)
-// .finally(() => process.exit(0))
+  .finally(() => process.exit(0))

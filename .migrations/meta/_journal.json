@@ -15,6 +15,20 @@
       "when": 1728013581192,
       "tag": "0001_nappy_spirit",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1728401002268,
+      "tag": "0002_groovy_captain_flint",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1728614615145,
+      "tag": "0003_tricky_slapstick",
+      "breakpoints": true
     }
   ]
 }

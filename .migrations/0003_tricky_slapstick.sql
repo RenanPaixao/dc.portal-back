@@ -1,0 +1,1 @@
+ALTER TABLE "courses" ALTER COLUMN "period" DROP NOT NULL;
