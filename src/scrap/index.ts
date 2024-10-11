@@ -1,12 +1,28 @@
 import puppeteer from 'puppeteer-core'
+import type { TabNames } from './types.ts'
 
-async function getAllCoursesFromTab(page: puppeteer.Page, tabName: 'optativas') {
+async function getAllCoursesFromTab(page: puppeteer.Page, tabOption: TabNames) {
+  const nivelTabs = Array.from({ length: 9 }, (_, i) => {
+    const optionProperty = `nivel${i + 1}`
+    return {
+      [optionProperty]: {
+        tabName: `${i + 1}º Nível`,
+        tableId: `#semestre${i + 1}`,
+        period: i + 1,
+      },
+    }
+  }).reduce((acc, curr) => Object.assign(acc, curr), {}) as {
+    [key in TabNames]: { tabName: string; tableId: string; period: number }
+  }
+
   const config = {
+    ...nivelTabs,
     optativas: {
       tabName: 'Optativas',
       tableId: '#optativas',
+      period: null,
     },
-  }[tabName]
+  }[tabOption]
 
   await clickOnCourseTab(page, config.tabName)
   await page.waitForSelector('tr')
@@ -23,7 +39,7 @@ async function getAllCoursesFromTab(page: puppeteer.Page, tabName: 'optativas') 
     const navigation = page.waitForNavigation()
     await links[index].click()
     await navigation
-    const course = await getCourseDetails(page)
+    const course = await getCourseDetails(page, config.period)
     courses.push(course)
 
     // Back to the previous page
@@ -35,12 +51,12 @@ async function getAllCoursesFromTab(page: puppeteer.Page, tabName: 'optativas') 
   return courses
 }
 
-async function getCourseDetails(page: puppeteer.Page) {
+async function getCourseDetails(page: puppeteer.Page, period: number | null) {
   const course = {
     code: null,
     name: null,
     description: null,
-    period: null,
+    period: period,
   }
 
   const rows = await page.$$('tr')
@@ -154,7 +170,20 @@ async function scrapCourses() {
   await page.waitForSelector('tr')
   clickOnActiveRow(page).catch(console.error)
 
-  const courses = await getAllCoursesFromTab(page, 'optativas')
+  const allCourses = [
+    ...(await getAllCoursesFromTab(page, 'optativas')),
+    ...(await getAllCoursesFromTab(page, 'nivel1')),
+    ...(await getAllCoursesFromTab(page, 'nivel2')),
+    ...(await getAllCoursesFromTab(page, 'nivel3')),
+    ...(await getAllCoursesFromTab(page, 'nivel4')),
+    ...(await getAllCoursesFromTab(page, 'nivel5')),
+    ...(await getAllCoursesFromTab(page, 'nivel6')),
+    ...(await getAllCoursesFromTab(page, 'nivel7')),
+    ...(await getAllCoursesFromTab(page, 'nivel8')),
+    ...(await getAllCoursesFromTab(page, 'nivel9')),
+  ]
+
+  console.log(allCourses)
 }
 
 async function main() {

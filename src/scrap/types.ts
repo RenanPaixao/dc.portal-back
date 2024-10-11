@@ -1,0 +1,11 @@
+export type TabNames =
+  | 'optativas'
+  | 'nivel1'
+  | 'nivel2'
+  | 'nivel3'
+  | 'nivel4'
+  | 'nivel5'
+  | 'nivel6'
+  | 'nivel7'
+  | 'nivel8'
+  | 'nivel9'
