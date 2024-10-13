@@ -8,7 +8,8 @@
   "type": "module",
   "scripts": {
     "dev": "tsx watch --env-file .env src/http/server.ts",
-    "seed": "tsx --env-file .env src/db/seed.ts"
+    "seed": "tsx --env-file .env src/db/seed.ts",
+    "fill": "tsx --env-file .env src/db/fill.ts"
   },
   "devDependencies": {
     "@biomejs/biome": "1.9.2",
