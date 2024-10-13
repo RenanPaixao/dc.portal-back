@@ -1,3 +1,4 @@
+import * as fs from 'node:fs/promises'
 import puppeteer from 'puppeteer-core'
 import type { TabNames } from './types.ts'
 
@@ -183,7 +184,7 @@ async function scrapCourses() {
     ...(await getAllCoursesFromTab(page, 'nivel9')),
   ]
 
-  console.log(allCourses)
+  await fs.writeFile('src/scrap/results/courses.json', JSON.stringify(allCourses, null, 2))
 }
 
 async function main() {
