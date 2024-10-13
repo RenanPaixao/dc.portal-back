@@ -1,0 +1,1 @@
+ALTER TABLE "courses" ALTER COLUMN "code" SET DATA TYPE text;

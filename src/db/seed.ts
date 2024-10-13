@@ -20,7 +20,8 @@ async function seed() {
   const courses = await db
     .insert(schema.courses)
     .values({
-      code: 101,
+      period: 2,
+      code: '101',
       name: 'Test Course',
       description: 'This is a test course.',
     })
@@ -34,7 +35,6 @@ async function seed() {
   })
 
   db.insert(schema.coursesProfessors).values({
-    period: 2,
     courseId: courses[0].id,
     year: 2020,
     professorId: professors[0].id,

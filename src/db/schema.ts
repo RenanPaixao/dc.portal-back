@@ -14,7 +14,7 @@ export const courses = pgTable('courses', {
   id: text('id')
     .primaryKey()
     .$defaultFn(() => createId()),
-  code: integer('code').notNull(),
+  code: text('code').notNull(),
   name: text('name').notNull(),
   description: text('description'),
   period: integer('period'),
