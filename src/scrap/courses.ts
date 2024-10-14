@@ -1,6 +1,13 @@
 import type puppeteer from 'puppeteer-core'
 import type { TabNames } from './types.js'
 
+interface Course {
+  code: string
+  name: string
+  description: string
+  period: number | null
+}
+
 export async function getAllCoursesFromTab(page: puppeteer.Page, tabOption: TabNames) {
   const nivelTabs = Array.from({ length: 9 }, (_, i) => {
     const optionProperty = `nivel${i + 1}`
@@ -52,10 +59,7 @@ export async function getAllCoursesFromTab(page: puppeteer.Page, tabOption: TabN
 }
 
 export async function getCourseDetails(page: puppeteer.Page, period: number | null) {
-  const course = {
-    code: null,
-    name: null,
-    description: null,
+  const course: Partial<Course> = {
     period: period,
   }
 

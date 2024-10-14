@@ -2,8 +2,15 @@ import * as fs from 'node:fs/promises'
 import { getBrowser } from '../utils.js'
 import { clickOnActiveRow, getAllCoursesFromTab } from './courses.js'
 
+interface Professor {
+  name: string
+  email: string
+  profileImg: string | null
+}
+
 async function main() {
   await scrapCourses()
+  await scrapProfessors()
 }
 
 main()
@@ -40,11 +47,6 @@ async function scrapCourses() {
 }
 
 async function scrapProfessors() {
-  const professor = {
-    name: null,
-    email: null,
-    profileImg: null,
-  }
   const browser = await getBrowser()
   const page = await browser.newPage()
   await page.goto('https://sigs.ufrpe.br/sigaa/public/docente/busca_docentes.jsf')
@@ -54,18 +56,41 @@ async function scrapProfessors() {
     'option',
     options => options.find(o => o.innerText === 'DEPARTAMENTO DE COMPUTAÇÃO-DC - RECIFE')?.value
   )
+
+  if (!optionValue) {
+    throw new Error('Could not find the department option value')
+  }
+
   await page.select('select', optionValue)
   await page.click('[name="form:buscar"]')
 
   await page.waitForSelector('.pagina a')
   const professorsPages = await page.$$eval('.pagina a', links => links.map(l => l.href))
 
+  const professors: Partial<Professor>[] = []
   for (const pageUrl of professorsPages) {
+    const professor: Partial<Professor> = {}
+
     await page.goto(pageUrl)
     await page.waitForSelector('#id-docente h3')
-    const professors = await page.$$eval('.docente', professors => professors.map(p => p.innerText))
-    await page.waitForSelector('.pagina a')
+    professor.name = await page.$eval('#id-docente h3', professors => professors.innerText)
+
+    professor.email = await page.$$eval('dl', contactRows => {
+      const emailRow = contactRows.find(row => row.innerText.includes('Endereço eletrônico'))
+      if (!emailRow) {
+        throw new Error('Could not find the email row')
+      }
+
+      return emailRow.querySelector('dd')?.innerText
+    })
+
+    professor.profileImg = await page.$eval('.foto_professor img', img => {
+      const src = img.getAttribute('src')
+      return src === '/sigaa/img/no_picture.png' ? null : src
+    })
+
+    professors.push(professor)
   }
 
-  await browser.close()
+  await fs.writeFile('src/scrap/results/professors.json', JSON.stringify(professors, null, 2))
 }
