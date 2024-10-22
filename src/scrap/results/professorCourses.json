@@ -1,0 +1,4420 @@
+{
+  "abner correa barros": [
+    {
+      "courseCode": "14063",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "14063",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "14063",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14063",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "14727",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "14063",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14727",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "14063",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "14063",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14726",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "14063",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "14063",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "14063",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "06246",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "14726",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "14726",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "06259",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "06246",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "06246",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "14044",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "06259",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "06259",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "06246",
+      "year": "2013.2"
+    },
+    {
+      "courseCode": "06246",
+      "year": "2013.1"
+    },
+    {
+      "courseCode": "06259",
+      "year": "2012.2"
+    },
+    {
+      "courseCode": "06246",
+      "year": "2012.1"
+    },
+    {
+      "courseCode": "06246",
+      "year": "2011.2"
+    },
+    {
+      "courseCode": "06209",
+      "year": "2011.1"
+    },
+    {
+      "courseCode": "06209",
+      "year": "2010.2"
+    }
+  ],
+  "alberto cesar cavalcanti franca": [
+    {
+      "courseCode": "28009",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14324",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "14324",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "14324",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14324",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "28007",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "14324",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "14324",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14324",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "06254",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "14324",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "28003",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "14002",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "14113",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "14113",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "14113",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "14113",
+      "year": "2016.1"
+    }
+  ],
+  "ana paula carvalho cavalcanti furtado": [
+    {
+      "courseCode": "06226",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "06226",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "06226",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14080",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "14321",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "14080",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14321",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "14321",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "14321",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "14321",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14321",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "14111",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "14080",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "14319",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "14080",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "14080",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "06211",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "14080",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "14080",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2014.1"
+    }
+  ],
+  "andre aziz camilo de araujo": [
+    {
+      "courseCode": "28005",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "14710",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "06246",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "14121",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "14710",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "06237",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "06246",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "06211",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "14064",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "14064",
+      "year": "2013.2"
+    },
+    {
+      "courseCode": "14064",
+      "year": "2013.1"
+    },
+    {
+      "courseCode": "14064",
+      "year": "2012.2"
+    },
+    {
+      "courseCode": "14064",
+      "year": "2012.1"
+    },
+    {
+      "courseCode": "06283",
+      "year": "2011.2"
+    },
+    {
+      "courseCode": "14085",
+      "year": "2011.1"
+    },
+    {
+      "courseCode": "06240",
+      "year": "2010.2"
+    }
+  ],
+  "andre camara alves do nascimento": [
+    {
+      "courseCode": "14318",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "14024",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14204",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "14083",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "14083",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14204",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "14024",
+      "year": "2019.4"
+    },
+    {
+      "courseCode": "14117",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "28004",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "14118",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "14118",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "06255",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "14204",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "14204",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "14204",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "06255",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "06238",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "06238",
+      "year": "2013.2"
+    }
+  ],
+  "andreza leite de alencar": [
+    {
+      "courseCode": "14111",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "14111",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14111",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "14111",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "14111",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14111",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "14088",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "06215",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "14111",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "28002",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "14088",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "06248",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "06248",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "06248",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "06248",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "06248",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "06248",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "06248",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "06248",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "14098",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "14098",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "06248",
+      "year": "2013.2"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2013.1"
+    },
+    {
+      "courseCode": "06235",
+      "year": "2012.1"
+    }
+  ],
+  "danilo ricardo barbosa de araujo": [
+    {
+      "courseCode": "14058",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "14058",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "14058",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14058",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "06209",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "06209",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "28008",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "14112",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "14112",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "28008",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14714",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "14048",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "14714",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "06250",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "06250",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "14714",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "06249",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "06249",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "14714",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "14048",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "14131",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "14131",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "06249",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "06249",
+      "year": "2013.2"
+    }
+  ],
+  "douglas veras e silva": [
+    {
+      "courseCode": "14065",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "14065",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "14065",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14065",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "14065",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "14065",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14065",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "14711",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "06250",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "14065",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14065",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "14065",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "14065",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "14065",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "14065",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "14065",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "14065",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "14065",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "14065",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "14312",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "14312",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "06236",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "14122",
+      "year": "2014.1"
+    }
+  ],
+  "erica teixeira gomes de sousa": [
+    {
+      "courseCode": "28021",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "14112",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "14112",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14112",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "14048",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "14048",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14048",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "14112",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14048",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "14112",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "14048",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "14048",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "14048",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "14048",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "06237",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "06209",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "14044",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "06211",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "06211",
+      "year": "2013.2"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2013.1"
+    },
+    {
+      "courseCode": "CCMP3074",
+      "year": "2012.2"
+    },
+    {
+      "courseCode": "CCMP3021",
+      "year": "2012.1"
+    },
+    {
+      "courseCode": "CCMP3009",
+      "year": "2011.2"
+    },
+    {
+      "courseCode": "CCMP3023",
+      "year": "2011.1"
+    }
+  ],
+  "ermeson carneiro de andrade": [
+    {
+      "courseCode": "06281",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "06281",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "28004",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14730",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "14730",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "14730",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "06211",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "14112",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "06247",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "06247",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "06247",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "06247",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "06211",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "14065",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "14065",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "06211",
+      "year": "2013.2"
+    }
+  ],
+  "fernando antonio aires lins": [
+    {
+      "courseCode": "14076",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "14076",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "14712",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14076",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "14712",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "14076",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14712",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "14059",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "14076",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14059",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "14059",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "14059",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "14059",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "14059",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "14059",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "14059",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "14059",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "14059",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "14059",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "14059",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "14060",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "14060",
+      "year": "2013.2"
+    },
+    {
+      "courseCode": "14060",
+      "year": "2013.1"
+    },
+    {
+      "courseCode": "14312",
+      "year": "2012.2"
+    },
+    {
+      "courseCode": "06250",
+      "year": "2012.1"
+    },
+    {
+      "courseCode": "14044",
+      "year": "2011.2"
+    },
+    {
+      "courseCode": "14044",
+      "year": "2011.1"
+    },
+    {
+      "courseCode": "06250",
+      "year": "2010.2"
+    },
+    {
+      "courseCode": "14044",
+      "year": "2010.1"
+    },
+    {
+      "courseCode": "14011",
+      "year": "2009.2"
+    },
+    {
+      "courseCode": "14011",
+      "year": "2009.1"
+    },
+    {
+      "courseCode": "06269",
+      "year": "2008.4"
+    }
+  ],
+  "filipe rolim cordeiro": [
+    {
+      "courseCode": "14203",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "06209",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "14020",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "06209",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "14110",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "06209",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14117",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "06223",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "14019",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "14019",
+      "year": "2013.2"
+    },
+    {
+      "courseCode": "06274",
+      "year": "2013.1"
+    },
+    {
+      "courseCode": "06274",
+      "year": "2012.2"
+    },
+    {
+      "courseCode": "06297",
+      "year": "2012.1"
+    }
+  ],
+  "francielle silva dos santos": [
+    {
+      "courseCode": "28001",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "28001",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "06211",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "06253",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2013.2"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2013.1"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2012.2"
+    },
+    {
+      "courseCode": "14088",
+      "year": "2012.1"
+    },
+    {
+      "courseCode": "14088",
+      "year": "2011.2"
+    },
+    {
+      "courseCode": "14078",
+      "year": "2011.1"
+    },
+    {
+      "courseCode": "06260",
+      "year": "2010.2"
+    }
+  ],
+  "francisco paulo magalhaes simoes": [
+    {
+      "courseCode": "14704",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "14704",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14723",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "14704",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "14054",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14704",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "06214",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "14723",
+      "year": "2020.2"
+    }
+  ],
+  "george augusto valenca santos": [
+    {
+      "courseCode": "14717",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "14717",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "14323",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "14717",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "06211",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "06211",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "06211",
+      "year": "2013.2"
+    }
+  ],
+  "george gomes cabral": [
+    {
+      "courseCode": "14083",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "14083",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "14083",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14083",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "14083",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "14117",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "06223",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "UAB00018",
+      "year": "2020.5"
+    },
+    {
+      "courseCode": "14074",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "14074",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14083",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "14024",
+      "year": "2019.4"
+    },
+    {
+      "courseCode": "06223",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "06223",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "06255",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "14020",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "06239",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "14020",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "14020",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "06223",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "06223",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "06211",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "06211",
+      "year": "2013.2"
+    },
+    {
+      "courseCode": "06255",
+      "year": "2013.1"
+    },
+    {
+      "courseCode": "06223",
+      "year": "2012.2"
+    },
+    {
+      "courseCode": "06223",
+      "year": "2012.1"
+    },
+    {
+      "courseCode": "06248",
+      "year": "2011.2"
+    }
+  ],
+  "gustavo rau de almeida callou": [
+    {
+      "courseCode": "14084",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "14084",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "14084",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14084",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "14099",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "14099",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "14084",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14308",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "14059",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "14083",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "14083",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "06236",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "06236",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "06236",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "06236",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "06259",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "06259",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "14065",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "14120",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "14120",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2013.2"
+    }
+  ],
+  "jeane cecilia bezerra de melo": [
+    {
+      "courseCode": "14087",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "14087",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "14087",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14087",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "14087",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "14087",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14087",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "14087",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "14087",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "14087",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14087",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "14087",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "14087",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "14087",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "14087",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "14087",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "14087",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "14087",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "14087",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "14087",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "14087",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "14087",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "14087",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "06214",
+      "year": "2013.2"
+    },
+    {
+      "courseCode": "06214",
+      "year": "2013.1"
+    },
+    {
+      "courseCode": "06214",
+      "year": "2012.2"
+    },
+    {
+      "courseCode": "06214",
+      "year": "2012.1"
+    },
+    {
+      "courseCode": "06214",
+      "year": "2011.2"
+    },
+    {
+      "courseCode": "06214",
+      "year": "2011.1"
+    },
+    {
+      "courseCode": "06266",
+      "year": "2010.2"
+    },
+    {
+      "courseCode": "14043",
+      "year": "2010.1"
+    },
+    {
+      "courseCode": "06273",
+      "year": "2009.2"
+    },
+    {
+      "courseCode": "06241",
+      "year": "2009.1"
+    },
+    {
+      "courseCode": "06204",
+      "year": "2008.2"
+    },
+    {
+      "courseCode": "06241",
+      "year": "2008.1"
+    },
+    {
+      "courseCode": "06273",
+      "year": "2007.2"
+    },
+    {
+      "courseCode": "06241",
+      "year": "2007.1"
+    },
+    {
+      "courseCode": "06273",
+      "year": "2006.2"
+    },
+    {
+      "courseCode": "06241",
+      "year": "2006.1"
+    }
+  ],
+  "jeisa pereira de oliveira domingues": [
+    {
+      "courseCode": "14058",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "14058",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "14058",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14058",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "14121",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "14058",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14121",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "14048",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "14048",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "14058",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14058",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "14058",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "14121",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "14112",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "14121",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "14048",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "14121",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "14058",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "14121",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "14121",
+      "year": "2013.2"
+    },
+    {
+      "courseCode": "06249",
+      "year": "2013.1"
+    },
+    {
+      "courseCode": "06249",
+      "year": "2012.2"
+    },
+    {
+      "courseCode": "06249",
+      "year": "2012.1"
+    },
+    {
+      "courseCode": "06249",
+      "year": "2011.2"
+    }
+  ],
+  "jeneffer cristine ferreira": [
+    {
+      "courseCode": "28009",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "28009",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "28010",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "28009",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "28009",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "28009",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "28009",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "28009",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "06260",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "28009",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "28009",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "28009",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "06245",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "06245",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "06245",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "06260",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "06220",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "06245",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "06203",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "06245",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "06245",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "06245",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "06245",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "06245",
+      "year": "2013.2"
+    },
+    {
+      "courseCode": "06245",
+      "year": "2013.1"
+    },
+    {
+      "courseCode": "06245",
+      "year": "2012.2"
+    },
+    {
+      "courseCode": "06245",
+      "year": "2012.1"
+    },
+    {
+      "courseCode": "06244",
+      "year": "2011.2"
+    },
+    {
+      "courseCode": "06254",
+      "year": "2011.1"
+    },
+    {
+      "courseCode": "06245",
+      "year": "2010.2"
+    }
+  ],
+  "joao paulo silva do monte lima": [
+    {
+      "courseCode": "06262",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "14704",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "14704",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14723",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "14704",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "14054",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14704",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "06230",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "14704",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "14723",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14704",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "14723",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "14704",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "14704",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "14723",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "14704",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "14054",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "14704",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "14056",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "14054",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "14054",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "14054",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2013.2"
+    }
+  ],
+  "julio cesar damasceno": [
+    {
+      "courseCode": "14058",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "06249",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "06249",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "06211",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "14076",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "06236",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "14123",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "06236",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "14091",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "14091",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "06236",
+      "year": "2013.2"
+    },
+    {
+      "courseCode": "06236",
+      "year": "2013.1"
+    },
+    {
+      "courseCode": "14312",
+      "year": "2012.2"
+    },
+    {
+      "courseCode": "14312",
+      "year": "2012.1"
+    },
+    {
+      "courseCode": "14085",
+      "year": "2011.2"
+    },
+    {
+      "courseCode": "06238",
+      "year": "2011.1"
+    },
+    {
+      "courseCode": "06249",
+      "year": "2010.2"
+    }
+  ],
+  "kellyton dos santos brito": [
+    {
+      "courseCode": "14112",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "14112",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "14112",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14112",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "28001",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "28001",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "28001",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "28001",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "28001",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2013.2"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2013.1"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2012.2"
+    },
+    {
+      "courseCode": "06252",
+      "year": "2012.1"
+    },
+    {
+      "courseCode": "06239",
+      "year": "2011.2"
+    }
+  ],
+  "leandro marques do nascimento": [
+    {
+      "courseCode": "14042",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "14042",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "14118",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14118",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "14118",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "14118",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14042",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "14042",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "14042",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "28006",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14042",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "14118",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "14042",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "05500",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "14042",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "14118",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "14042",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "14118",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "14042",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "14118",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "14118",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "14042",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "06240",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "06240",
+      "year": "2013.2"
+    },
+    {
+      "courseCode": "06240",
+      "year": "2013.1"
+    },
+    {
+      "courseCode": "06240",
+      "year": "2012.2"
+    },
+    {
+      "courseCode": "06240",
+      "year": "2012.1"
+    },
+    {
+      "courseCode": "06236",
+      "year": "2011.2"
+    }
+  ],
+  "lucas albertins de lima": [
+    {
+      "courseCode": "14079",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "14079",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "06252",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "06252",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "06252",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "06252",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "06252",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "06252",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "06252",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "14321",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "06252",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "06252",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "06252",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "14321",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "06252",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "06252",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "06252",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "14321",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "14321",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "14321",
+      "year": "2013.2"
+    }
+  ],
+  "lucas silva figueiredo": [
+    {
+      "courseCode": "28010",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "28010",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "UAB00074",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "UAB00074",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "UAB00074",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "UAB00072",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "UAB00072",
+      "year": "2021.1"
+    }
+  ],
+  "luciano demetrio santos pacifico": [
+    {
+      "courseCode": "14074",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "06214",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "14074",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14074",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "06294",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "06294",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14074",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "14719",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "06214",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "14074",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "14719",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "14074",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "06238",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "06237",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "06237",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "06237",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "06255",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "14024",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "06206",
+      "year": "2014.1"
+    }
+  ],
+  "maigan stefanne da silva alcantara": [
+    {
+      "courseCode": "14204",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "14204",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14204",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "14204",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "14204",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "06260",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "14204",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "14204",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "14204",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14204",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "14204",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "06260",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "06260",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "06245",
+      "year": "2017.2"
+    }
+  ],
+  "marcelo luiz monteiro marinho": [
+    {
+      "courseCode": "06251",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14046",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "14319",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "14112",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14112",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "06226",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "06226",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "14112",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14112",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "14112",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "14046",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "14002",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "14002",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "14320",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "14320",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "14046",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "14320",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "14320",
+      "year": "2013.2"
+    },
+    {
+      "courseCode": "14080",
+      "year": "2013.1"
+    }
+  ],
+  "marcos jose de menezes cardoso junior": [
+    {
+      "courseCode": "28011",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "28011",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "28011",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "28011",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "28002",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "28014",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14046",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "14330",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "14330",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "14330",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14330",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "28010",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "28003",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "06211",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "06211",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "06254",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "06254",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "06222",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "06254",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "06254",
+      "year": "2013.2"
+    },
+    {
+      "courseCode": "06211",
+      "year": "2013.1"
+    },
+    {
+      "courseCode": "06211",
+      "year": "2012.2"
+    },
+    {
+      "courseCode": "06254",
+      "year": "2012.1"
+    },
+    {
+      "courseCode": "06247",
+      "year": "2011.2"
+    },
+    {
+      "courseCode": "06235",
+      "year": "2011.1"
+    }
+  ],
+  "millena de andrade almeida gomes cavalcanti": [
+    {
+      "courseCode": "06262",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "14064",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "14065",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "06259",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "14065",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "06211",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "14065",
+      "year": "2013.2"
+    },
+    {
+      "courseCode": "14065",
+      "year": "2013.1"
+    },
+    {
+      "courseCode": "06211",
+      "year": "2012.2"
+    },
+    {
+      "courseCode": "06259",
+      "year": "2012.1"
+    },
+    {
+      "courseCode": "06223",
+      "year": "2011.2"
+    }
+  ],
+  "obionor de oliveira nobrega": [
+    {
+      "courseCode": "14044",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "28008",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "28008",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "28008",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "14058",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "14058",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14058",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "14058",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "14058",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "14058",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14058",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "14058",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "14058",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "14058",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "14058",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "14058",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "14058",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "14058",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "14058",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "06249",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "14011",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "14058",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "14058",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "14011",
+      "year": "2013.2"
+    },
+    {
+      "courseCode": "14011",
+      "year": "2013.1"
+    }
+  ],
+  "pablo azevedo sampaio": [
+    {
+      "courseCode": "14203",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "06223",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "06223",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14024",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "06223",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "14024",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "UAB00067",
+      "year": "2020.8"
+    },
+    {
+      "courseCode": "UAB00018",
+      "year": "2020.5"
+    },
+    {
+      "courseCode": "14117",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "06223",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "14724",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "06223",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "14724",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "14724",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "14724",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "14090",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "06239",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "14111",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "14111",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "14024",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "14024",
+      "year": "2013.2"
+    },
+    {
+      "courseCode": "14024",
+      "year": "2013.1"
+    },
+    {
+      "courseCode": "06203",
+      "year": "2012.2"
+    },
+    {
+      "courseCode": "14204",
+      "year": "2012.1"
+    },
+    {
+      "courseCode": "06203",
+      "year": "2011.2"
+    },
+    {
+      "courseCode": "06245",
+      "year": "2011.1"
+    },
+    {
+      "courseCode": "06203",
+      "year": "2010.2"
+    }
+  ],
+  "paulo anselmo da mota silveira neto": [
+    {
+      "courseCode": "14118",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "28006",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "28001",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "06252",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "28006",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "28006",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "06252",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "06252",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "06240",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "06240",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "06240",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "06240",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "06240",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "06240",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "06240",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "06240",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "CCMP5065",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "CCMP5024",
+      "year": "2013.2"
+    },
+    {
+      "courseCode": "CCMP5024",
+      "year": "2013.1"
+    },
+    {
+      "courseCode": "CCMP5016",
+      "year": "2012.2"
+    }
+  ],
+  "pericles barbosa cunha de miranda": [
+    {
+      "courseCode": "14117",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "14024",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "14117",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14117",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "14117",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14117",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "UAB00018",
+      "year": "2020.5"
+    },
+    {
+      "courseCode": "14117",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "14117",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "14083",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14117",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "14024",
+      "year": "2019.4"
+    },
+    {
+      "courseCode": "14117",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "14117",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "14117",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "14117",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "14117",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "14117",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "06238",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "06238",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "06238",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "06238",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "06238",
+      "year": "2014.2"
+    }
+  ],
+  "rafael dueire lins": [
+    {
+      "courseCode": "14090",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "14090",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14096",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "14090",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "14051",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "14096",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "14096",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "06203",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "14096",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "14096",
+      "year": "2017.1"
+    }
+  ],
+  "rafael ferreira leite de mello": [
+    {
+      "courseCode": "14719",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "28016",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "28016",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "14318",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "14024",
+      "year": "2019.4"
+    },
+    {
+      "courseCode": "28001",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "28016",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "14024",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "14111",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "14111",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "14024",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "06241",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "14019",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "14019",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "14019",
+      "year": "2013.2"
+    }
+  ],
+  "rafael perazzo barbosa mota": [
+    {
+      "courseCode": "06209",
+      "year": "2024.2"
+    }
+  ],
+  "ricardo andre cavalcante de souza": [
+    {
+      "courseCode": "14716",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "14320",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14716",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "14320",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "14716",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14320",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "14716",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "28011",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "14716",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14320",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "28014",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "14320",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "14716",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "14320",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "14716",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "14320",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "14716",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "14320",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "06226",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "06226",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "06226",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "06226",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "06226",
+      "year": "2013.2"
+    },
+    {
+      "courseCode": "06226",
+      "year": "2013.1"
+    },
+    {
+      "courseCode": "06226",
+      "year": "2012.2"
+    },
+    {
+      "courseCode": "06226",
+      "year": "2012.1"
+    },
+    {
+      "courseCode": "14112",
+      "year": "2011.2"
+    },
+    {
+      "courseCode": "06247",
+      "year": "2011.1"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2010.2"
+    }
+  ],
+  "rinaldo jose de lima": [
+    {
+      "courseCode": "28006",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "28005",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "28005",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "28005",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "28005",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "28005",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14308",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "14092",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "06215",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14308",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "06248",
+      "year": "2019.3"
+    },
+    {
+      "courseCode": "06248",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "14024",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "06209",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "14088",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "06209",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "14088",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2016.1"
+    }
+  ],
+  "robson wagner albuquerque de medeiros": [
+    {
+      "courseCode": "14059",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "14059",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "14059",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14059",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "14059",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "14059",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14059",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "06209",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "14111",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "14059",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "06209",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "14044",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "14712",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "14044",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "06236",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "06236",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "06236",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "06236",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "06236",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "06236",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "14312",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "14312",
+      "year": "2013.2"
+    },
+    {
+      "courseCode": "14312",
+      "year": "2013.1"
+    },
+    {
+      "courseCode": "14117",
+      "year": "2012.2"
+    },
+    {
+      "courseCode": "06236",
+      "year": "2012.1"
+    },
+    {
+      "courseCode": "06240",
+      "year": "2011.2"
+    }
+  ],
+  "rodrigo nonamor pereira mariano de souza": [
+    {
+      "courseCode": "06223",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "06223",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "28019",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "28019",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "28019",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "06214",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14093",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "06214",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "06223",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "06232",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14204",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "06232",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "14093",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "06232",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "06238",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "06232",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "06238",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "14110",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "06245",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "06232",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "06239",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "06239",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "06238",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "14087",
+      "year": "2013.2"
+    },
+    {
+      "courseCode": "14072",
+      "year": "2013.1"
+    },
+    {
+      "courseCode": "14087",
+      "year": "2012.2"
+    },
+    {
+      "courseCode": "14204",
+      "year": "2012.1"
+    },
+    {
+      "courseCode": "14087",
+      "year": "2011.2"
+    },
+    {
+      "courseCode": "06223",
+      "year": "2011.1"
+    },
+    {
+      "courseCode": "06239",
+      "year": "2010.2"
+    },
+    {
+      "courseCode": "06236",
+      "year": "2010.1"
+    },
+    {
+      "courseCode": "06203",
+      "year": "2009.2"
+    }
+  ],
+  "ruan vasconcelos bezerra carvalho": [
+    {
+      "courseCode": "14204",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2019.4"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "06203",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "14721",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "06203",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "14203",
+      "year": "2014.1"
+    }
+  ],
+  "sidney de carvalho nogueira": [
+    {
+      "courseCode": "14321",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "14321",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "14321",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "28001",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "06252",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "06252",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14079",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "28005",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "28005",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "14079",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "28005",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "14079",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "14117",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "14117",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "14321",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "14079",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "14117",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "14079",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "14321",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "14079",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "14117",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "14321",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "14321",
+      "year": "2013.2"
+    },
+    {
+      "courseCode": "14321",
+      "year": "2013.1"
+    },
+    {
+      "courseCode": "06241",
+      "year": "2012.2"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2012.1"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2011.2"
+    }
+  ],
+  "suzana candido de barros sampaio": [
+    {
+      "courseCode": "06226",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "14319",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "14078",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "14078",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "14319",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14080",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "14319",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "14078",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "06251",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "14080",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "14319",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "14319",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "14319",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "14319",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "14080",
+      "year": "2013.2"
+    }
+  ],
+  "taciana pontual da rocha falcao": [
+    {
+      "courseCode": "28003",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "28003",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "28003",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "28010",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "28010",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "28010",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "28010",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "28003",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "28010",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "28010",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "28003",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "06254",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "28010",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "06254",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "06253",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "06253",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "06253",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "06253",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "06253",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "06253",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "06253",
+      "year": "2013.2"
+    }
+  ],
+  "valmir macario filho": [
+    {
+      "courseCode": "06223",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "14051",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "14051",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14051",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "14049",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "06223",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "06223",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "14020",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "14020",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "06223",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "06223",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "06223",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "14020",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "14051",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "06239",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "14051",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "06260",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "14051",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "06260",
+      "year": "2016.1"
+    },
+    {
+      "courseCode": "14051",
+      "year": "2015.2"
+    },
+    {
+      "courseCode": "14051",
+      "year": "2015.1"
+    },
+    {
+      "courseCode": "14051",
+      "year": "2014.2"
+    },
+    {
+      "courseCode": "14051",
+      "year": "2014.1"
+    },
+    {
+      "courseCode": "06223",
+      "year": "2013.2"
+    }
+  ],
+  "vanilson andre de arruda buregio": [
+    {
+      "courseCode": "14125",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2022.1"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2021.2"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2021.1"
+    },
+    {
+      "courseCode": "14084",
+      "year": "2020.4"
+    },
+    {
+      "courseCode": "14084",
+      "year": "2020.3"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2020.2"
+    },
+    {
+      "courseCode": "14118",
+      "year": "2020.1"
+    },
+    {
+      "courseCode": "14118",
+      "year": "2019.2"
+    },
+    {
+      "courseCode": "14324",
+      "year": "2019.1"
+    },
+    {
+      "courseCode": "14110",
+      "year": "2018.2"
+    },
+    {
+      "courseCode": "14110",
+      "year": "2018.1"
+    },
+    {
+      "courseCode": "14110",
+      "year": "2017.2"
+    },
+    {
+      "courseCode": "14118",
+      "year": "2017.1"
+    },
+    {
+      "courseCode": "14118",
+      "year": "2016.2"
+    },
+    {
+      "courseCode": "14118",
+      "year": "2016.1"
+    }
+  ],
+  "vitor de andrade coutinho": [
+    {
+      "courseCode": "14064",
+      "year": "2024.2"
+    },
+    {
+      "courseCode": "14064",
+      "year": "2024.1"
+    },
+    {
+      "courseCode": "14064",
+      "year": "2023.1"
+    },
+    {
+      "courseCode": "14064",
+      "year": "2022.2"
+    },
+    {
+      "courseCode": "06262",
+      "year": "2022.1"
+    }
+  ]
+}

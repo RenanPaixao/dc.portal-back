@@ -1,16 +1,13 @@
 import * as fs from 'node:fs/promises'
 import { getBrowser } from '../utils.js'
 import { clickOnActiveRow, getAllCoursesFromTab } from './courses.js'
-
-interface Professor {
-  name: string
-  email: string
-  profileImg: string | null
-}
+import type { ScrappedProfessorCourse } from './professorCourse.js'
+import { type Professor, extractProfessorData, getProfessorsLinks } from './professors.js'
 
 async function main() {
   await scrapCourses()
   await scrapProfessors()
+  await scrapCoursesProfessors()
 }
 
 main()
@@ -51,46 +48,81 @@ async function scrapProfessors() {
   const page = await browser.newPage()
   await page.goto('https://sigs.ufrpe.br/sigaa/public/docente/busca_docentes.jsf')
 
-  await page.waitForSelector('#form')
-  const optionValue = await page.$$eval(
-    'option',
-    options => options.find(o => o.innerText === 'DEPARTAMENTO DE COMPUTAÇÃO-DC - RECIFE')?.value
-  )
-
-  if (!optionValue) {
-    throw new Error('Could not find the department option value')
-  }
-
-  await page.select('select', optionValue)
-  await page.click('[name="form:buscar"]')
-
-  await page.waitForSelector('.pagina a')
-  const professorsPages = await page.$$eval('.pagina a', links => links.map(l => l.href))
+  const professorsLinks = await getProfessorsLinks(page)
 
   const professors: Partial<Professor>[] = []
-  for (const pageUrl of professorsPages) {
-    const professor: Partial<Professor> = {}
-
+  for (const pageUrl of professorsLinks) {
     await page.goto(pageUrl)
-    await page.waitForSelector('#id-docente h3')
-    professor.name = await page.$eval('#id-docente h3', professors => professors.innerText)
-
-    professor.email = await page.$$eval('dl', contactRows => {
-      const emailRow = contactRows.find(row => row.innerText.includes('Endereço eletrônico'))
-      if (!emailRow) {
-        throw new Error('Could not find the email row')
-      }
-
-      return emailRow.querySelector('dd')?.innerText
-    })
-
-    professor.profileImg = await page.$eval('.foto_professor img', img => {
-      const src = img.getAttribute('src')
-      return src === '/sigaa/img/no_picture.png' ? null : src
-    })
-
-    professors.push(professor)
+    professors.push(await extractProfessorData(page))
   }
 
   await fs.writeFile('src/scrap/results/professors.json', JSON.stringify(professors, null, 2))
+}
+
+async function scrapCoursesProfessors() {
+  const browser = await getBrowser()
+  const page = await browser.newPage()
+  await page.goto('https://sigs.ufrpe.br/sigaa/public/docente/busca_docentes.jsf')
+
+  const professorLinks = await getProfessorsLinks(page)
+
+  const professorCoursesScraped: ScrappedProfessorCourse = {}
+  for (const link of professorLinks) {
+    await page.goto(link)
+    await page.locator('.menu_professor .disciplinas_ministradas a').click()
+    await page.waitForSelector('#abas-turmas')
+    const professorName = await page.$eval('#id-docente h3', async el => {
+      return el.innerHTML
+    })
+
+    const tab = await page.evaluateHandle(() => {
+      const allTabs = document.querySelectorAll('#abas-turmas li')
+      const tab = Array.from(allTabs).find(tab => tab.innerHTML.includes('Graduação'))
+
+      if (!tab) {
+        throw new Error('Could not find the Graduação tab')
+      }
+
+      return tab
+    })
+
+    await tab.click()
+    await page.waitForSelector('#turmas-graduacao tbody tr')
+
+    const coursesScrapped = await page.$$eval('#turmas-graduacao tbody tr', async rows => {
+      const professorsCourses: ScrappedProfessorCourse[string][number][] = []
+
+      const courseProfessor: ScrappedProfessorCourse[string][number] = {
+        courseCode: '',
+        year: '',
+      }
+
+      for (const row of rows) {
+        const year = row.querySelector('.anoPeriodo')?.innerHTML
+
+        if (year) {
+          courseProfessor.year = year.trim()
+          continue
+        }
+
+        const code = row.querySelector('.codigo')?.innerHTML
+        if (code) {
+          courseProfessor.courseCode = code.trim()
+        }
+
+        const isEmpty = row.innerText === ''
+        if (isEmpty) {
+          professorsCourses.push({ ...courseProfessor })
+          courseProfessor.courseCode = ''
+          courseProfessor.year = ''
+        }
+      }
+
+      return professorsCourses
+    })
+
+    professorCoursesScraped[professorName] = coursesScrapped
+  }
+
+  await fs.writeFile('src/scrap/results/professorCourses.json', JSON.stringify(professorCoursesScraped, null, 2))
 }
