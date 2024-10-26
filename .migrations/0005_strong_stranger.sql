@@ -1,0 +1,1 @@
+ALTER TABLE "courses_professors" ALTER COLUMN "year" SET DATA TYPE text;
