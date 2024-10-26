@@ -9,7 +9,8 @@
   "scripts": {
     "dev": "tsx watch --env-file .env src/http/server.ts",
     "seed": "tsx --env-file .env src/db/seed.ts",
-    "fill": "tsx --env-file .env src/db/fill.ts"
+    "fill": "tsx --env-file .env src/db/fill.ts",
+    "scrap": "tsx --env-file .env src/scrap/index.ts"
   },
   "devDependencies": {
     "@biomejs/biome": "1.9.2",
