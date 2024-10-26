@@ -28,7 +28,7 @@ export async function extractProfessorData(page: puppeteer.Page) {
   const professor: Partial<Professor> = {}
 
   await page.waitForSelector('#id-docente h3')
-  professor.name = await page.$eval('#id-docente h3', professors => professors.innerText)
+  professor.name = await page.$eval('#id-docente h3', professors => professors.innerText.toLowerCase().trim())
 
   professor.email = await page.$$eval('dl', contactRows => {
     const emailRow = contactRows.find(row => row.innerText.includes('Endereço eletrônico'))

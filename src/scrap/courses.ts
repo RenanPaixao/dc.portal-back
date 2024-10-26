@@ -78,7 +78,7 @@ export async function getCourseDetails(page: puppeteer.Page, period: number | nu
     }
     if (value.includes('Nome')) {
       const name = await row.$('td')
-      course.name = await name?.getProperty('innerText').then(p => p.jsonValue())
+      course.name = await name?.getProperty('innerText').then(p => p.jsonValue().then(v => v.toLowerCase().trim()))
     }
     if (value.includes('Ementa')) {
       const description = await row.$('td')

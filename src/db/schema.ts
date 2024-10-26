@@ -36,7 +36,7 @@ export const coursesProfessors = pgTable('courses_professors', {
     .$defaultFn(() => createId()),
   courseId: text('course_id').references(() => courses.id),
   professorId: text('professor_id').references(() => professors.id),
-  year: integer('year').notNull(),
+  year: text('year').notNull(),
 })
 
 export const comments = pgTable('comments', {

@@ -2,907 +2,907 @@
   {
     "period": null,
     "code": "04341",
-    "name": "LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+    "name": "língua brasileira de sinais - libras",
     "description": "Estudos históricos da Educação de Surdos e da Libras. Legislação e acessibilidade na área da surdez. Aquisição da linguagem do surdo. Noções básicas da estrutura linguística da Libras e de sua gramática. Especificidades da produção textual escrita do surdo."
   },
   {
     "period": null,
     "code": "05145",
-    "name": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO-RACIAIS",
+    "name": "educação das relações étnico-raciais",
     "description": "Formação das identidades brasileiras: elementos históricos. Relações sociais e étnico-raciais. África e Brasil, semelhanças e diferenças em suas formações. Interações Brasil-África na contemporaneidade. Preconceito, estereótipo, etnia, interculturalidade. A educação indígena no Brasil, historicidade e perspectivas teórico-metodológicas. Ensino e aprendizagem na perspectiva da pluralidade cultural. Pluralidade étnica do nordeste e de Pernambuco: especificidades e situação sócio-educacional. Multiculturalismo e transculturalismo crítico."
   },
   {
     "period": null,
     "code": "06010",
-    "name": "CRIPTOGRAFIA",
+    "name": "criptografia",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "06218",
-    "name": "SISTEMAS DE INFORMAÇÃO",
+    "name": "sistemas de informação",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "06220",
-    "name": "INFORMÁTICA NA EDUCAÇÃO",
+    "name": "informática na educação",
     "description": "Histórico, evolução e tendências do uso de tecnologias digitais na educação. Ambientes de aprendizagem computacionais e apoiados por tecnologias. Aspectos psicopedagógicos e sociais. Diferentes usos das tecnologias na educação. O papel do professor."
   },
   {
     "period": null,
     "code": "06222",
-    "name": "SOFTWARE EDUCACIONAL",
+    "name": "software educacional",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "06230",
-    "name": "COMPUTAÇÃO GRÁFICA BÁSICA",
+    "name": "computação gráfica básica",
     "description": "Modelagem de sólidos. Câmera virtual. Transformações. Projeções. Recorte. Rasterização. Sistemas de cores. Iluminação e tonalização. Texturização. Traçado de raios recursivo. Aliasing. PROCESSO N 11827/2017-57"
   },
   {
     "period": null,
     "code": "06232",
-    "name": "TEORIA DOS GRAFOS",
+    "name": "teoria dos grafos",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "06239",
-    "name": "INTRODUÇÃO À TEORIA DA COMPUTAÇÃO",
+    "name": "introdução à teoria da computação",
     "description": "Autômatos: Finitos, a Pilha e Máquina de Turing (linearmente limitada). Linguagens Formais: Regular, Livre e Sensível ao Contexto, Estrutura de Frases. Hierarquia de Chomsky. Aplicações em compiladores. Computabilidade: modelos computacionais (funções recursivas, linguagens de programação), funções não computáveis, problema da parada, decidibilidade."
   },
   {
     "period": null,
     "code": "06271",
-    "name": "INTRODUÇÃO À COMPUTAÇÃO QUÂNTICA",
+    "name": "introdução à computação quântica",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "06281",
-    "name": "EDUCAÇÃO À DISTÂNCIA",
+    "name": "educação à distância",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "06294",
-    "name": "INTRODUÇÃO À COMPUTAÇÃO EVOLUTIVA",
+    "name": "introdução à computação evolutiva",
     "description": "Inspiração Biológica: Darwinismo e Mendelismo. Componentes de um Algoritmo Evolutivo: Representação, Função de Avaliação, População, Principais Mecanismos Evolutivos. Algoritmos Evolutivos Clássicos: Algoritmos Genéticos, Estratégias de Evolução, Programação Evolucionária, Programação Genética. Inteligência Coletiva. Otimização por Colônia de Formigas. Otimização por Enxame de Partículas. Cooperação e Competição. Modelos Híbridos: Combinação de Técnicas Evolutivas. Aplicações dos Algoritmos Evolutivos."
   },
   {
     "period": null,
     "code": "14002",
-    "name": "PROJETO DE SISTEMAS EDUCACIONAIS",
+    "name": "projeto de sistemas educacionais",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14010",
-    "name": "GERENCIAMENTO DE REDES",
+    "name": "gerenciamento de redes",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14011",
-    "name": "TÓPICOS AVANÇADOS EM REDES DE COMPUTADORES I",
+    "name": "tópicos avançados em redes de computadores i",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14013",
-    "name": "TEORIA DA COMPUTABILIDADE",
+    "name": "teoria da computabilidade",
     "description": "Linguagens não recursivas e redução entre problemas: problema da parada e da correspondência de Post. Décimo problema de Hilbert. Teorema da incompletude de Gödel. Teorema de Rice. Funções recursivas de Kleene. Linguagem LOOP. Lambda Calculo. Máquina de registradores. Teorema da recursão."
   },
   {
     "period": null,
     "code": "14015",
-    "name": "SEMÂNTICA DE LINGUAGENS DE PROGRAMAÇÃO",
+    "name": "semântica de linguagens de programação",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14019",
-    "name": "RECONHECIMENTO DE PADRÕES",
+    "name": "reconhecimento de padrões",
     "description": "Introdução; Extração de Características; Aprendizagem Não Supervisionada; Classi\u001c- cação de padrões e regressão de funções; Avaliação de técnicas de classi\u001ccação e testes estatísticos; Tratamento dos dados; Projeto."
   },
   {
     "period": null,
     "code": "14020",
-    "name": "REDES NEURAIS",
+    "name": "redes neurais",
     "description": "Aprendizado supervisionado. Aprendizado não-supervisionado. Classificação e Regressão em Redes Neurais Artificiais. Redes Neurais Recorrentes. Predição de Séries Temporais em Redes Neurais. Aspectos teóricos. Projeto. PROCESSO N 11827/2016-57"
   },
   {
     "period": null,
     "code": "14022",
-    "name": "SISTEMAS ESPECIALISTAS",
+    "name": "sistemas especialistas",
     "description": "Introdução a Sistemas Especialistas (SE) com Base no Conhecimento, Aquisição do conhecimento e construção de bases de conhecimento, Representação do conhecimento e mecanismos de Inferência, Construção de SE, Introdução ao tratamento de incerteza, Shells para Desenvolvimento de SE. Aplicações de Sistemas Especialistas.Projeto: desenvolvimento de uma aplicação de pequeno porte."
   },
   {
     "period": null,
     "code": "14024",
-    "name": "TÓPICOS AVANÇADOS EM INTELIGÊNCIA ARTIFICIAL",
+    "name": "tópicos avançados em inteligência artificial",
     "description": "Introdução à Computação Evolucionária, Algoritmos Evolucionários: Algoritmos Genéticos, Estratégias de Evolução, Programação Evolucionária, Programação Genética. Controle de Parâmetros em Algoritmos Evolucionários. Problemas Multi-modais e Multi-objetivos. MOEAs: Algoritmos Evolucionários Multiobjetivo. Algoritmos Meméticos (híbridos). Algoritmos Evolucionários para Problemas com Restrições. Como Implementar e Testar Algoritmos Evolucionários"
   },
   {
     "period": null,
     "code": "14032",
-    "name": "PROGRAMAÇÃO LINEAR",
+    "name": "programação linear",
     "description": "Introdução. Modelagem e Técnicas de Solução. Fundamentos de álgebra linear. Método Simplex. Teoria da Dualidade. Problemas de Fluxo em Redes. Introdução a métodos de pontos interiores."
   },
   {
     "period": null,
     "code": "14033",
-    "name": "ALGORITMOS NUMÉRICOS",
+    "name": "algoritmos numéricos",
     "description": "Computação Numérica. Sistemas Lineares. Interpolação. Ajuste de curvas. Integra ção numérica. Raízes de equações.Equações Diferenciais Ordinárias."
   },
   {
     "period": null,
     "code": "14035",
-    "name": "MODELAGEM COMPUTACIONAL",
+    "name": "modelagem computacional",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14042",
-    "name": "JOGOS DIGITAIS",
+    "name": "jogos digitais",
     "description": "Introdução aos jogos digitais: história, definição e conceitos básicos. Conceitos essenciais de projeto de jogo (Game Design). Técnicas e ferramentas para implementação de jogos digitais. Motores 2D/3D. Concepção, definição, implementação e testes de um jogo digital, utilizando tecnologias recentes e adequadas ao contexto da disciplina. PROCESSO N 11827/2016-57"
   },
   {
     "period": null,
     "code": "14043",
-    "name": "COMPUTADORES E SOCIEDADE",
+    "name": "computadores e sociedade",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14045",
-    "name": "DIREITO E LEGISLAÇÃO PARA INFORMÁTICA",
+    "name": "direito e legislação para informática",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14046",
-    "name": "GERÊNCIA DE PROJETOS",
+    "name": "gerência de projetos",
     "description": "Aspectos gerais de projetos, suas características, abordagem por fases com customização dos conceitos para projetos de Tecnologia da Informação. Etapas de um projeto: Escopo, Tempo, Custos, Qualidade, Recursos Humanos, Comunicação, Riscos, Aquisições, Integração e Partes Interessadas. Apresentação de ferramentas de planejamento e controle dos projetos. Desenvolvimento de um plano de projeto integrado. Tópicos atuais em Gerência de Projetos."
   },
   {
     "period": null,
     "code": "14051",
-    "name": "PROCESSAMENTO DE IMAGENS",
+    "name": "processamento de imagens",
     "description": "Conceitos básicos e terminologia. Digitalização. Operações básicas. Operações com histograma. Sistema de cores. Filtragem no domínio espacial. Filtragem no domínio da frequência. Morfologia matemática. Detecção de bordas. Segmentação. Representação e descrição de imagens. PROCESSO 11827/2016-57"
   },
   {
     "period": null,
     "code": "14054",
-    "name": "REALIDADE VIRTUAL",
+    "name": "realidade virtual",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14055",
-    "name": "COMPUTAÇÃO E EMPREENDEDORISMO",
+    "name": "computação e empreendedorismo",
     "description": "O empreendedorismo no Brasil e no mundo. Perfil do empreendedor. Análise de mercado. Planejamento estratégico. Marketing. Análise de viabilidade financeira. Estudo dos mecanismos e procedimentos para a criação de empresas. Instrumentos de fomento e investimentos em Startups."
   },
   {
     "period": null,
     "code": "14056",
-    "name": "TÓPICOS AVANÇADOS EM REALIDADE VIRTUAL",
+    "name": "tópicos avançados em realidade virtual",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14060",
-    "name": "TÓPICOS AVANÇADOS EM SISTEMAS DISTRIBUÍDOS I",
+    "name": "tópicos avançados em sistemas distribuídos i",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14061",
-    "name": "ARQUITETURAS ORIENTADAS A SERVIÇOS",
+    "name": "arquiteturas orientadas a serviços",
     "description": "Introdução a Sistemas Distribuídos. Introdução a Arquitetura Orientada a Serviços e Web Services. Padrões, protocolos e especificações para desenvolvimento de sistemas orientados a serviços. Frameworks e API's para o desenvolvimento de Web Services. Desenvolvimento de Aplicações orientadas a serviços. Requisitos não-funcionais em SOA. Enterprise Service Bus."
   },
   {
     "period": null,
     "code": "14066",
-    "name": "ARQUITETURAS AVANÇADAS DE COMPUTADORES",
+    "name": "arquiteturas avançadas de computadores",
     "description": "Processamento paralelo, arquiteturas SIMD e MIMD. Redes de interconexão de multiprocessadores; interconexão baseada em barramentos e switches. Análise de desempenho de arquiteturas multicore, desempenho da interconexão, escalabilidade de arquiteturas paralelas e benchmarks. Arquiteturas com memória compartilhas e com passagem de mensagens. Clusters e grids. Escalonamento e alocação de tarefas."
   },
   {
     "period": null,
     "code": "14067",
-    "name": "CIRCUITOS INTEGRADOS",
+    "name": "circuitos integrados",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14068",
-    "name": "TÓPICOS AVANÇADOS EM ARQUITETURAS DE COMPUTADORES",
+    "name": "tópicos avançados em arquiteturas de computadores",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14069",
-    "name": "COMPUTAÇÃO DE ALTO DESEMPENHO",
+    "name": "computação de alto desempenho",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14070",
-    "name": "TÓPICOS AVANÇADOS EM SISTEMAS OPERACIONAIS",
+    "name": "tópicos avançados em sistemas operacionais",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14072",
-    "name": "TÓPICOS AVANÇADOS EM TEORIA DA COMPUTAÇÃO",
+    "name": "tópicos avançados em teoria da computação",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14073",
-    "name": "COMPUTAÇÃO QUÂNTICA",
+    "name": "computação quântica",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14076",
-    "name": "SEGURANÇA DA INFORMAÇÃO",
+    "name": "segurança da informação",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14078",
-    "name": "ENGENHARIA DE REQUISITOS",
+    "name": "engenharia de requisitos",
     "description": "Ao final da disciplina o aluno deverá ter refinado seu conhecimento na área de engenharia de requisitos de Software, ter capacidade de identificar de forma adequada os requisitos funcionais e não funcionais de software, ter conhecimento de como detalhar requisitos com a técnica de Casos de Uso ou ágil, conhecer várias técnicas de elicitação de requisitos para levantar necessidades de negócio e conhecer técnicas e ferramenta de modelagem de processo de negócio."
   },
   {
     "period": null,
     "code": "14079",
-    "name": "MÉTODOS FORMAIS",
+    "name": "métodos formais",
     "description": "Processo de desenvolvimento formal. Classificação dos métodos formais. Notação formal para especificação de sistemas. Notação formal para especificação de propriedades do sistema. Noções de leis e cálculo usados para refinamento. Ferramenta para animação de especificação formal. Ferramenta para verificação automática de propriedades de modelos. Ferramenta para verificação automática de refinamento entre modelos. PROCESSO N 11827/2016-57"
   },
   {
     "period": null,
     "code": "14080",
-    "name": "QUALIDADE DE SOFTWARE",
+    "name": "qualidade de software",
     "description": "Introdução à Qualidade de Software. Modelos de processos individuais e de equipe, tais como: Personal Software Process (PSP) e Team Software Process (TSP). Normas ISO referentes à qualidade de software. Modelos de qualidade: Capability Maturity Model Integration (CMMI) e Melhoria de Processo de Software Brasileiro (MSP Br). PROCESSO N 11827/2016 -57"
   },
   {
     "period": null,
     "code": "14081",
-    "name": "TÓPICOS AVANÇADOS EM ENGENHARIA DE SOFTWARE",
+    "name": "tópicos avançados em engenharia de software",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14091",
-    "name": "SISTEMAS UNIX",
+    "name": "sistemas unix",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14092",
-    "name": "BANCO DE DADOS NÃO-CONVENCIONAIS",
+    "name": "banco de dados não-convencionais",
     "description": "Introducão aos Banco de Dados Não-convencionais. Bancos de Dados Objeto-Relacional. Banco de Dados Ativos. Bancos de Dados Temporais. Bancos de Dados Multimedia. Banco de Dados XML. Bancos de Dados Geográficos/Espaciais. Bancos de Dados Dedutivos. Aplicacões e Tópicos Avançados."
   },
   {
     "period": null,
     "code": "14093",
-    "name": "ALGORITMOS EM GRAFOS",
+    "name": "algoritmos em grafos",
     "description": "Definição formal. Grafos não-direcionados e direcionados e subtipos. Relações entre grafos. Caminhos e Ciclos. Conectividade. Problemas de grafos como modelos de tarefas reais. Representação computacional. Buscas em largura e em profundidade. Ordenação topológica. Coloração e planaridade e aplicações. Menores caminhos. Árvores espalhadas mínimas. Caminhos e ciclos Hamiltonianos e Eulerianos. Problema do Carteiro Chinês. Problema do Caixeiro-Viajante: algoritmos aproximados e heurísticas. Fluxo máximo em redes. Emparelhamento máximo. Problemas computacionalmente complexos em grafos. Aplicações. PROCESSO N 11827/2016-57"
   },
   {
     "period": null,
     "code": "14094",
-    "name": "ANÁLISE E PROJETO DE SISTEMAS ORIENTADOS A ASPECTOS",
+    "name": "análise e projeto de sistemas orientados a aspectos",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14095",
-    "name": "PROGRAMAÇÃO CONCORRENTE",
+    "name": "programação concorrente",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14096",
-    "name": "PROJETO DE COMPILADORES",
+    "name": "projeto de compiladores",
     "description": "Back-end: Máquina de Combinadores em Dois Arrays. Máquina de Combinadores em Listas. Máquina de Turner sem Garbage Collector. Garbage Collection. A Máquina G: da interpretação à compilação. Front-end: Geradores de Linguagens Léxicas e Sintáticas. EMENTA ALTERADA CONFORME PROCESSO 24360/2016-13."
   },
   {
     "period": null,
     "code": "14097",
-    "name": "TÓPICOS AVANÇADOS EM PROGRAMAÇÃO",
+    "name": "tópicos avançados em programação",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14098",
-    "name": "TÓPICOS AVANÇADOS EM BANCO DE DADOS",
+    "name": "tópicos avançados em banco de dados",
     "description": "Levantamento, análise e desenvolvimento de técnicas avançadas em Banco de Dados, permitindo ao aluno conhecer o estado da arte nesta área de pesquisa."
   },
   {
     "period": null,
     "code": "14099",
-    "name": "ANÁLISE DE DESEMPENHO",
+    "name": "análise de desempenho",
     "description": "Conceitos sobre avaliação de desempenho de um sistema de computação. Métodos de avaliação quantitativa de desempenho: monitoração, simulação e modelagem estocástica. Introdução à teoria de filas, redes de Petri e diagrama de blocos de confiabilidade. Estudos de casos."
   },
   {
     "period": null,
     "code": "14100",
-    "name": "SIMULAÇÃO DE SISTEMAS",
+    "name": "simulação de sistemas",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14101",
-    "name": "TEORIA DAS FILAS",
+    "name": "teoria das filas",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14102",
-    "name": "TÓPICOS AVANÇADOS EM ANÁLISE DE DESEMPENHO",
+    "name": "tópicos avançados em análise de desempenho",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14103",
-    "name": "BIOLOGIA COMPUTACIONAL",
+    "name": "biologia computacional",
     "description": "Noções básicas de biologia molecular. Alinhamento e análise de seqüências. Recuperação de informação em bancos de dados biológicos. Predição de estrutura de proteínas. Análise de expressão gênica. Análise filogenética. Análise de Redes Biológicas. PROCESSO N 11827/2016-57"
   },
   {
     "period": null,
     "code": "14104",
-    "name": "BIOINFORMÁTICA",
+    "name": "bioinformática",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14105",
-    "name": "ALGORITMOS PARA BUSCA DE PADRÕES EM SEQUÊNCIAS",
+    "name": "algoritmos para busca de padrões em sequências",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14106",
-    "name": "TÓPICOS AVANÇADOS EM BIOLOGIA COMPUTACIONAL",
+    "name": "tópicos avançados em biologia computacional",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14108",
-    "name": "ANÁLISE E PROJETO DE SISTEMAS ORIENTADOS A OBJETOS",
+    "name": "análise e projeto de sistemas orientados a objetos",
     "description": "Visão geral de processos de software. Princípios e conceitos de Orientação a Objetos. Introdução à UML - Linguagem de Modelagem Unificada. Teorias, métodos, técnicas e ferramentas associadas ao projeto de software enquanto atividade sistemática Padrões de projeto (design patterns). Padrões Arquiteturais. Modelagem das visões arquiteturais de sistemas de software OO."
   },
   {
     "period": null,
     "code": "14113",
-    "name": "TÓPICOS AVANÇADOS EM EDUCAÇÃO À DISTÂNCIA",
+    "name": "tópicos avançados em educação à distância",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14115",
-    "name": "TEORIA DA COMPLEXIDADE",
+    "name": "teoria da complexidade",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14116",
-    "name": "TORIA DOS AUTÔMATOS",
+    "name": "toria dos autômatos",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14119",
-    "name": "DESENVOLVIMENTO DE APLICAÇÕES MÓVEIS",
+    "name": "desenvolvimento de aplicações móveis",
     "description": "Introdução à computação móvel. Gerações de dispositivos móveis. Plataformas, ferramentas e frameworks de desenvolvimento. Arquiteturas de software para aplicações móveis. Conceitos básicos e avançados de desenvolvimento de aplicações móveis nativas."
   },
   {
     "period": null,
     "code": "14120",
-    "name": "AVALIAÇÃO DE DESEMPENHO DE REDES",
+    "name": "avaliação de desempenho de redes",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14121",
-    "name": "REDES DE COMPUTADORES SEM FIO",
+    "name": "redes de computadores sem fio",
     "description": "Redes sem fio: introdução, conceitos básicos, padrões. Redes celulares: arquitetura e conceitos básicos, gerações (características e tecnologias), gerenciamento de recursos. Redes móveis ad hoc: características, complexidades, roteamento. Redes de sensores sem fio: aplicações, arquitetura da rede e dos nós sensores, roteamento. Simulador de redes: introdução, utilização, aplicação para avaliação dos conceitos vistos na disciplina."
   },
   {
     "period": null,
     "code": "14122",
-    "name": "TÓPICOS AVANÇADOS EM SISTEMAS DISTRIBUÍDOS II",
+    "name": "tópicos avançados em sistemas distribuídos ii",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14123",
-    "name": "PLATAFORMAS DE DISTRIBUIÇÃO",
+    "name": "plataformas de distribuição",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14124",
-    "name": "COMPUTAÇÃO EM NUVEM",
+    "name": "computação em nuvem",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14125",
-    "name": "DESENVOLVIMENTO DE APLICAÇÕES PARA WEB",
+    "name": "desenvolvimento de aplicações para web",
     "description": "Introdução a World Wide Web. Programação Front-end. Validação de Dados. Frameworks Web, ferramentas e bibliotecas. Padrão MVC no cliente e servidor. Programação Back-end. Desenvolvimento de APIs. Acesso à banco de dados. Aspectos de Segurança. Implantação de aplicações Web na nuvem. Projeto: Desenvolvimento de uma aplicação para a Web."
   },
   {
     "period": null,
     "code": "14126",
-    "name": "PROGRAMAÇÃO EM LINGUAGENS HÍBRIDAS",
+    "name": "programação em linguagens híbridas",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14127",
-    "name": "PROGRAMAÇÃO FUNCIONAL",
+    "name": "programação funcional",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14128",
-    "name": "DESAFIOS DE PROGRAMAÇÃO",
+    "name": "desafios de programação",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14129",
-    "name": "PROGRAMAÇÃO ORIENTADA A ASPECTOS",
+    "name": "programação orientada a aspectos",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14130",
-    "name": "ALGORITMOS PARA BIOINFORMÁTICA E BIOLOGIA COMPUTACIONAL",
+    "name": "algoritmos para bioinformática e biologia computacional",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14131",
-    "name": "TÓPICOS AVANÇADOS EM REDES DE COMPUTADORES II",
+    "name": "tópicos avançados em redes de computadores ii",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14312",
-    "name": "WEB SERVICES",
+    "name": "web services",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14313",
-    "name": "ALGORITMOS SOBRE TEXTOS",
+    "name": "algoritmos sobre textos",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14314",
-    "name": "GEOMETRIA COMPUTACIONAL",
+    "name": "geometria computacional",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14315",
-    "name": "TÓPICOS EM COMBINATÓRIA",
+    "name": "tópicos em combinatória",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14316",
-    "name": "AUTÔMATOS JOGOS E LÓGICA",
+    "name": "autômatos jogos e lógica",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14317",
-    "name": "INFORMAÇÃO QUÂNTICA",
+    "name": "informação quântica",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14318",
-    "name": "MINERAÇÃO DE TEXTO",
+    "name": "mineração de texto",
     "description": "Processamento de linguagem natural. Associação entre palavras. Recuperação de informação. Classificação e agrupamento de texto. Extração de informação. Sumarização de texto."
   },
   {
     "period": null,
     "code": "14319",
-    "name": "METODOLOGIAS ÁGEIS DE DESENVOLVIMENTO DE SOFTWARE",
+    "name": "metodologias ágeis de desenvolvimento de software",
     "description": "Contextualização das Metodologias Ágeis de Desenvolvimento de Software. Comparação entre Metodologias Tradicionais e Ágeis. Extreme Programming. Gerenciando Projetos de Software com SCRUM. Desenvolvimento com XP e SCRUM. Desenvolvimento de Software guiado por testes. Novas metodologias ágeis para desenvolvimento de software. PROCESSO N 11827/2016-57"
   },
   {
     "period": null,
     "code": "14320",
-    "name": "INOVAÇÃO EM PROJETOS DE SOFTWARE",
+    "name": "inovação em projetos de software",
     "description": "Caracterização das abordagens dirigidas à inovação. Especificação e introdução de atividades centradas à inovação no workflow de processos de desenvolvimento e de gerenciamento de projetos de software. Experimentação de práticas dirigidas à inovação para a concepção, especificação e prototipação de produtos de software diferenciados em relação ao status quo. PROCESSO11827/2016"
   },
   {
     "period": null,
     "code": "14321",
-    "name": "TESTE DE SOFTWARE",
+    "name": "teste de software",
     "description": "Conceitos de verificação e validação. Tipos, fases e abordagens de teste. Teste nos diversos modelos de ciclo de vida. Projeto de testes. Técnicas de teste estático, estrutura e funcional. Frameworks e ferramentas para testes. Planejamento, monitoramento e controle dos testes. Tendências e futuro na área de testes. Prática de planejamento, projeto, implementação e execução de testes. PROCESSO N 11827/2016-57"
   },
   {
     "period": null,
     "code": "14322",
-    "name": "ASPECTOS COGNITIVOS NO DESENVOLVIMENTO DE SOFTWARE",
+    "name": "aspectos cognitivos no desenvolvimento de software",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": null,
     "code": "14323",
-    "name": "ENGENHARIA DE SOFTWARE EXPERIMENTAL",
+    "name": "engenharia de software experimental",
     "description": "Caracterização e diferenciação dos principais métodos aplicáveis à pesquisa e experimentação em ES: revisão sistemática da literatura, experimentos controlados, estudos de caso, surveys, pesquisa ação, análise documental e etnografia. Relacionamento destes principais métodos ao referencial teórico nas ciências filosófica e sociológica. Formalização e condução de um projeto de pesquisa, indo desde a formulação das hipóteses de pesquisa, passando pela condução de experimentos, análise quantitativa e qualitativa dos dados, validação e publicação dos resultados."
   },
   {
     "period": null,
     "code": "14324",
-    "name": "INTERAÇÃO HOMEM MÁQUINA",
+    "name": "interação homem máquina",
     "description": "Fundamentos: fatores humanos, atores humanos e aspectos culturais e estéticos em interfaces de software, contemplando teoria, princípios e regras básicas. Usabilidade: avaliação com foco na interface, com foco na interação e com foco no usuário. Técnicas de design conceituais, dispositivos de interação, convenções e padrões para interfaces. Tecnologias para interfaces e interação homem-máquina: interfaces gráficas, web, móveis, baseadas em toque e baseadas em gestos. Acessibilidade."
   },
   {
     "period": null,
     "code": "14330",
-    "name": "EMPREENDEDORISMO A",
+    "name": "empreendedorismo a",
     "description": "RESOLUÇÃO CEPE 358/2011"
   },
   {
     "period": null,
     "code": "14701",
-    "name": "ESTRUTURAS ALGÉBRICAS PARA COMPUTAÇÃO",
+    "name": "estruturas algébricas para computação",
     "description": "Teoria dos Conjuntos. Conjuntos Ordenados. Grupos. Anéis. Corpos. Espaços Vetoriais. Grafos. Reticulados. Matróides. Espaços Topológicos. Álgebras Universais. Categorias. PROCESSO N 11827/2016-57"
   },
   {
     "period": null,
     "code": "14702",
-    "name": "INTRODUÇÃO A TEORIA DAS CATEGORIAS",
+    "name": "introdução a teoria das categorias",
     "description": "Definição e exemplos de categorias. Diagramas. Morfismos e Objetos Especiais: Monomorfismos, Epimorfismos e isomorfismos. Objetos iniciais e objetos terminais. Funtores. Limites e cones. Estruturs Fatorantes. Adjunção. Transformações Naturais. Aplicações de categorias na Ciência da Computação: Lógica Categórica e Cálculo Lambda Tipado."
   },
   {
     "period": null,
     "code": "14704",
-    "name": "VISÃO COMPUTACIONAL",
+    "name": "visão computacional",
     "description": "Visão geral, história e introdução à visão computacional. Pirâmide e aplicações. Detecção de bordas e cantos. Segmentação. Descrição de objetos. Reconhecimento de objetos. Ajuste de modelos. Câmeras, coordenadas e calibração. Visão estéreo. Múltiplas visões. Rastreamento. PROCESSO N 23082.011978/2015-24"
   },
   {
     "period": null,
     "code": "14710",
-    "name": "ARQUITETURAS NÃO-CONVENCIONAIS",
+    "name": "arquiteturas não-convencionais",
     "description": "Introdução ao processamento digital de sinais. Arquiteturas superescalares, arquiteturas VLIW, arquiteturas DSP, arquiteturas de propósito específico (ASIP – Application-Specific Instruction-set Processor), hierarquia de memória em DSP. Programação e otimização de código para DSP."
   },
   {
     "period": null,
     "code": "14711",
-    "name": "DESENVOLVIMENTO DE APLICAÇÕES PARA TV",
+    "name": "desenvolvimento de aplicações para tv",
     "description": "Introdução a plataformas de TV. Ferramentas e emuladores de desenvolvimento para TV. Introdução a linguagens de programação para TV. Leiaute de apresentação na TV. Navegação via controle remoto. Mudança e navegação entre frames da aplicação. Efeitos visuais. Definição de variáveis globais e de ambiente. Entrada e persistência de dados. Processamento remoto."
   },
   {
     "period": null,
     "code": "14712",
-    "name": "PROJETO E IMPLEMENTAÇÃO DE SISTEMAS DISTRIBUÍDOS",
+    "name": "projeto e implementação de sistemas distribuídos",
     "description": "Projeto de Sistemas Distribuídos. Aspectos práticos relacionados a implementação, implantação e execução de Sistemas Distribuídos. Avaliação de desempenho de Sistemas Distribuídos. Segurança de Sistemas Distribuídos. Tópicos atuais em Sistemas Distribuídos. PROCESSO: 23082.025279/2015-61 DATA: 01/12/2015"
   },
   {
     "period": null,
     "code": "14713",
-    "name": "SISTEMAS DE TEMPO REAL",
+    "name": "sistemas de tempo real",
     "description": "Introdução sobre o Tempo Real, Escalonamento de Tempo Real, Processos de tempo real , Suporte para aplicações de Tempo Real, Modelo de programação síncrona para os Sistemas de Tempo Real, Tendências atuais em Sistemas de Tempo Real, Kernels e sistemas operacionais de tempo real, Introdução a tolerância a falhas."
   },
   {
     "period": null,
     "code": "14714",
-    "name": "TECNOLOGIA DE REDES",
+    "name": "tecnologia de redes",
     "description": "Conceitos básicos de transmissão de dados. Degradações do sinal na transmissão de dados. Modelos básicos para capacidade de canal. Formatos de modulação. Técnicas de Multiplexação. Controle de erros em sistemas de comunicação. Qualidade de Transmissão. Projeto: Simulação de transmissão de dados usando software de simulação de redes."
   },
   {
     "period": null,
     "code": "14715",
-    "name": "INTERNET DO FUTURO",
+    "name": "internet do futuro",
     "description": "Principais problemas da arquitetura atual das redes de computadores. Novos princípios e fundamentos das redes da próxima geração. Tecnologias cabeadas e não cabeadas para as redes de próxima geração. Principais protocolos de comunicação para redes do futuro. Ambientes de teste e desenvolvimento de novas arquiteturas para a Internet do Futuro. Projeto de simulação ou implementação."
   },
   {
     "period": null,
     "code": "14716",
-    "name": "GESTÃO DA INFORMAÇÃO E DO CONHECIMENTO",
+    "name": "gestão da informação e do conhecimento",
     "description": "Conceitos, diferentes visões e implicações para a organização. Organizações na era do conhecimento. Visão estratégica da informação na Sociedade do Conhecimento. O valor da informação e do conhecimento nas organizações. Conhecimento tácito e conhecimento explícito. Introdução à Inteligência Competitiva. Coleta, seleção e filtragem de informações. Noções gerais de tratamento, análise, organização e armazenagem da informação. Formas de transferência do conhecimento. Os processos de compartilhamento e difusão do conhecimento nas organizações. Sistemas corporativos de compartilhamento e uso da informação e do conhecimento."
   },
   {
     "period": null,
     "code": "14717",
-    "name": "GESTÃO DE PROCESSOS DE NEGÓCIO",
+    "name": "gestão de processos de negócio",
     "description": "Introdução à Gestão de Processos de Negócio. Ciclo de Vida de Gestão de Processos de Negócio. Notações para Modelagem de Processos. Governança de Processos. Sistemas Orientados a Processos. Cultura e Pessoas em Gestão de Processos de Negócio. PROCESSO: 23082.025279/2015-61 DATA: 01/12/2015"
   },
   {
     "period": null,
     "code": "14718",
-    "name": "GOVERNANÇA DE TI",
+    "name": "governança de ti",
     "description": "Definição, tipos e contextos de aplicações de governança de TI. As questões de TI que afetam as organizações. Evolução da área de TI nas organizações. Alinhamento entre os objetivos estratégicos organizacionais e a área de TI. Gestão e tipos de decisões de TI. Modelos e Normas relativos à Governança de TI. Mecanismos para a implantação de Governança de TI. Estruturação de um plano de implantação de um modelo de governança de TI. PROCESSO: 23082.025279/2015-61 DATA: 01/12/2015"
   },
   {
     "period": null,
     "code": "14719",
-    "name": "APRENDIZAGEM DE MÁQUINAS",
+    "name": "aprendizagem de máquinas",
     "description": "Introdução. Captura e pré-processamento de dados. Aprendizagem de Máquina: Métodos Baseados em Distância, Método Baseados em Busca, Métodos Estatísticos, Agrupamento, Combinação de Classificadores. Métodos de Avaliação. Reconhecimento de Padrões. PROCESSO: 23082.025279/2015-61 DATA: 14719"
   },
   {
     "period": null,
     "code": "14721",
-    "name": "LÓGICA PARA COMPUTAÇÃO",
+    "name": "lógica para computação",
     "description": "Lógica aristotélica, argumentos, validade de argumentos. Álgebra de Boole. Lógica simbólica de Frege. Lógica proposicional: sintaxe, semântica, valoração verdade, tabela verdade, satisfatibilidade, consequência lógica, compaccidade. Métodos de prova: tableaux, método da resolução, dedução natural, cálculo de sequentes. Lógica de primeira ordem: estruturas, termos e fórmulas, fórmula prenex, Skolem, teorema de Herbrand, resolução, algoritmo de unificação. PROCESSO: 23082.025279/2015-61 DATA: 01/12/2015"
   },
   {
     "period": null,
     "code": "14722",
-    "name": "MOTORES GRÁFICOS",
+    "name": "motores gráficos",
     "description": "Visão geral de um motor gráfico. Malhas. Texturas. Materiais. Grafo de cena. Particionamento do espaço. Câmeras. Luzes. Sombras. Céu. Terrenos. Tratamento de entrada. Interface gráfica. Animação. Sistemas de partículas. PROCESSO: 23082.025279/2015-61 DATA: 01/12/2015"
   },
   {
     "period": null,
     "code": "14723",
-    "name": "REALIDADE VIRTUAL E MISTA",
+    "name": "realidade virtual e mista",
     "description": "Contínuo Realidade-Virtualidade. Visão geral de uma biblioteca de Realidade Virtual/Mista. Rastreamento. Criação de conteúdo. Renderização. Dispositivos de entrada. Dispositivos de saída. Dispositivos móveis/vestíveis. Desenvolvimento web. Fatores humanos e interação. PROCESSO: 23082.025279/2015-61 DATA: 01/12/2015"
   },
   {
     "period": null,
     "code": "14724",
-    "name": "SISTEMAS MULTIAGENTES",
+    "name": "sistemas multiagentes",
     "description": "Agentes inteligentes. Resolução distribuída de problemas: satisfação de restrição e otimização distribuídas. Agentes com interesses próprios, função de utilidade. Teoria dos Jogos. Comunicação. Coordenação. PROCESSO: 23082.025279/2015-61 DATA: 01/12/2015"
   },
   {
     "period": null,
     "code": "14726",
-    "name": "ROBÓTICA EDUCACIONAL I",
+    "name": "robótica educacional i",
     "description": "Eletricidade Básica; Eletrônica Básica; Instrumentos de medição; Motores e Atuadores; Transdutores e Sensores; Plataforma de Processamento; Projeto e Construção de Robôs para fins Educacionais; Exposição dos projetos."
   },
   {
     "period": null,
     "code": "14727",
-    "name": "PROJETO DE SISTEMAS EMBARCADOS",
+    "name": "projeto de sistemas embarcados",
     "description": "Apresentação de um panorama das aplicações de sistemas embarcados e procedimentos de projeto. Introdução de conceitos básicos que permitam determinar os requisitos de novos projetos e propor melhorias em sistemas já existentes."
   },
   {
     "period": null,
     "code": "14730",
-    "name": "COMPUTAÇÃO PARA ANÁLISE DE DADOS",
+    "name": "computação para análise de dados",
     "description": "Introdução à data science. Visão geral e história de uma linguagem de programação popular para a análise de dados (ex: R ou Python). Tipos de dados e operações básicas. Leitura e escrita de dados. Estruturas de controle. Funções. Plotagem. Manipulação, documentação e análise de dados."
   },
   {
     "period": null,
     "code": "28007",
-    "name": "ASPECTOS HUMANOS E SOCIAIS NA COMPUTAÇÃO",
+    "name": "aspectos humanos e sociais na computação",
     "description": "Impacto social de novas tecnologias. Introdução a filosofia da Ciência da Computação e da Inteligência Artificial. Ética da Ciência da Computação. Legislação de Software e Propriedade Intelectual."
   },
   {
     "period": null,
     "code": "28011",
-    "name": "PROJETO DE DESENVOLVIMENTO DE SOFTWARE EDUCACIONAL",
+    "name": "projeto de desenvolvimento de software educacional",
     "description": "Instanciação de um processo de desenvolvimento de software: fluxo, atividades, papéis e produtos de trabalho. Desenvolvimento de projeto multidisciplinar em equipe. Implementação de um produto de software. Uso de padrões de projeto e de codificação de software. Realização de testes automatizados de software."
   },
   {
     "period": null,
     "code": "28013",
-    "name": "DESIGN INSTRUCIONAL",
+    "name": "design instrucional",
     "description": "Processos, métodos e técnicas de design para conceber e elaborar, sistematicamente e com fundamentação em princípios teóricos pedagógicos bem estabelecidos, artefatos digitais educacionais ou experiências educacionais tecnológicas para serem inseridos em situações didáticas específicas, visando a eficiência, eficácia e satisfação de estudantes no processo de aprendizagem humana."
   },
   {
     "period": null,
     "code": "28014",
-    "name": "INOVAÇÃO EM EDUCAÇÃO",
+    "name": "inovação em educação",
     "description": "Discutir aspectos teóricos da concepção de inovação em educação; Apresentar experiências práticas inovadoras no contexto do universo do educador; Tópicos atuais de estratégias visando à diferenciação no ensino; Apresentação de práticas inovadoras para serem inseridas em situações didáticas específicas, visando a eficiência, eficácia e satisfação de usuários no processo de aprendizagem humana."
   },
   {
     "period": null,
     "code": "28015",
-    "name": "JOGOS DIGITAIS NA EDUCAÇÃO",
+    "name": "jogos digitais na educação",
     "description": "Introdução aos jogos digitais na educação. Princípios de aprendizagem com jogos digitais. Implantação dos jogos digitais para a aprendizagem. Jogos digitais dentro das organizações."
   },
   {
     "period": null,
     "code": "28016",
-    "name": "MINERAÇÃO DE DADOS EDUCACIONAIS",
+    "name": "mineração de dados educacionais",
     "description": "Entendimento sobre o conceito de Mineração de Dados Educacionais; Metodologias e processos em EDM; Pré-processamento de dados educacionais; Modelagem do desempenho de estudantes; Fornecimento de feedback para apoio a professores; Suporte à aprendizagem personalizada/adaptativa para alunos; Modelagem do usuário/estudante e Agrupamento de perfis de alunos."
   },
   {
     "period": null,
     "code": "28020",
-    "name": "APRENDIZAGEM POR REFORÇO",
+    "name": "aprendizagem por reforço",
     "description": "Problema dos bandidos multibraços (multi-armed bandits): algoritmos básicos. Dilema exploit vs. explore. Agentes, ambientes e recompensas. Processo de Decisão de Markov (Markov Decision Process – MDP). Programação dinâmica. Métodos Monte-Carlo. Aprendizagem por diferença temporal (TD Learning): SARSA e Q-Learning. Dyna-Q. Métodos de gradiente de política: REINFORCE e variantes. Métodos de ator-crítico (actor-critic). Aprendizagem por reforço profunda: conceito, DQN e variantes. Classificações dos métodos: on-policy vs. off-policy; sem modelo vs. com modelo; baseado em valor vs. baseado em política; tabular vs. com aproximação de função. Visão geral de outras técnicas: métodos para ações contínuas, aprendizagem por autojogo (self-play), métodos mais recentes. Visão geral de outras formas de aprendizagem por reforço. Aplicações."
   },
   {
     "period": null,
     "code": "28021",
-    "name": "MODELAGEM E SIMULAÇÃO DE SISTEMAS COMPUTACIONAIS",
+    "name": "modelagem e simulação de sistemas computacionais",
     "description": "Tópicos a serem estudados incluem: modelagem determinística e estocástica, geração de números e variáveis aleatórias, simulação de sistemas de eventos discretos, desenvolvimento da simulação, validação do modelo e análise dos resultados das simulações. Linguagens de simulação. Planejamento de capacidade, planejamento de experimentos, análise de sensibilidade e técnicas de injeção de falhas."
   },
   {
     "period": 1,
     "code": "06418",
-    "name": "ÁLGEBRA VETORIAL E LINEAR PARA COMPUTAÇÃO",
+    "name": "álgebra vetorial e linear para computação",
     "description": "Álgebra Vetorial. Álgebra Linear. Métodos Numéricos em Álgebra Linear."
   },
   {
     "period": 1,
     "code": "06507",
-    "name": "CÁLCULO NI",
+    "name": "cálculo ni",
     "description": "Funções Reais de uma Variável Real. Limite e Continuidade. Derivadas: conceito, regras e aplicações."
   },
   {
     "period": 1,
     "code": "14044",
-    "name": "INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+    "name": "introdução à ciência da computação",
     "description": "Evolução da Ciência da Computação. Conceitos básicos. Bases numéricas. Sistemas de numeração em computação. Aritmética binária. Representação de dados: números em ponto fixo e ponto flutuante, codificação BCD, numérica e alfanumérica. Arquitetura tradicional (von Neumann). Introdução à Arquitetura e Organização de Computadores através de exemplos hipotéticos. Noções de sistemas operacionais, utilitários, redes, tipos de linguagens, compiladores e interpretadores. Introdução à Ciência da Computação: a ciência, o curso e a profissão."
   },
   {
     "period": 1,
     "code": "14117",
-    "name": "INTRODUÇÃO À PROGRAMAÇÃO I",
+    "name": "introdução à programação i",
     "description": "Introdução às linguagens de programação algorítmicas e ao desenvolvimento estruturado de programas. Tipos e estruturas elementares de dados, operadores, funções embutidas e expressões. Instruções condicionais, incondicionais e de repetição. Tipos compostos de dados: vetores, matrizes e registros. Ponteiros. Modularização, funções e procedimentos, passagem por valor e por referência, documentação. introdução a uma linguagem de programação algorítmica popular. Introdução à organização de dados em arquivos. Noções de recursão. Problemas algorítmicos elementares de busca e ordenação."
   },
   {
     "period": 1,
     "code": "14203",
-    "name": "MATEMÁTICA DISCRETA I",
+    "name": "matemática discreta i",
     "description": "Lógica proposicional. Lógica de predicados de primeira ordem. Técnicas de demonstração básicas: direta, por contraposição, por redução ao absurdo, por casos. Provas existenciais construtivas e não-construtivas. Teoria dos conjuntos. Relações n-árias, binárias, de equivalência e de ordem. Funções e seqüências: injetividade e sobrejetividade. Cardinalidade: prova por diagonalização. Teoria dos números: divisibilidade, números primos, algoritmo da divisão (teorema) e aritmética modular. Definições recursivas e provas por indução. Aplicações na Computação nas áreas de: Inteligência Artificial, Métodos Formais, Bancos de Dados, Análise de Algoritmos e Criptografia."
   },
   {
     "period": 2,
     "code": "06214",
-    "name": "ALGORITMOS E ESTRUTURAS DE DADOS",
+    "name": "algoritmos e estruturas de dados",
     "description": "Análise de Algoritmos: Notação O e Análise Assintótica. Algoritmos para pesquisa e ordenação em memória principal e secundária. Organização de arquivos. Técnicas de recuperação de informação. Listas lineares e suas generalizações: listas ordenadas, listas encadeadas, pilhas e filas. Aplicações de listas. Árvores e suas generalizações: árvores binárias, árvores de busca, árvores balanceadas (AVL), árvores B e B+. Aplicações de árvores. PROCESSO N 11827/2016-57"
   },
   {
     "period": 2,
     "code": "06508",
-    "name": "CÁLCULO NII",
+    "name": "cálculo nii",
     "description": "Integral de funções uma variável real. Funções reais de várias variáveis: limite e continuidade. Derivadas Parciais e Diferenciabilidade. Regra da Cadeia e derivação implícita. Máximos e Mínimos. Multiplicadores de Lagrange."
   },
   {
     "period": 2,
     "code": "14112",
-    "name": "METODOLOGIA CIENTÍFICA APLICADA À COMPUTAÇÃO",
+    "name": "metodologia científica aplicada à computação",
     "description": "Tipos de conhecimento. Conhecimento científico. Ciência e linguagem. Explicações científicas. Alcance, limite e estrutura de hipóteses. Leis e teorias científicas. Metodologia de pesquisa em ciências exatas: pesquisa bibliográfica, elaboração, execução e acompanhamento de projetos de pesquisa: problematização, hipóteses, métodos e seleção de amostra. Normatização de trabalhos técnico-científicos. Técnicas de coleta de dados. Análise de Dados."
   },
   {
     "period": 2,
     "code": "14118",
-    "name": "INTRODUÇÃO À PROGRAMAÇÃO II",
+    "name": "introdução à programação ii",
     "description": "Paradigma orientado a objetos. Conceitos de programação orientada a objeto: abstração, generalização, modularização e encapsulamento. Sintaxe básica JAVA. Orientação a objetos com JAVA: classes e objetos, tipos abstratos de dados, objetos e mensagens, herança, polimorfismo. Arquitetura em N-camadas instanciação de padrão estilo MVC na prática. Boas práticas de programação orientada a objetos e padrão de codificação. Projeto de desenvolvimento."
   },
   {
     "period": 2,
     "code": "14204",
-    "name": "MATEMÁTICA DISCRETA II",
+    "name": "matemática discreta ii",
     "description": "Combinatória Básica: Permutações, Combinações, binômios, ocupância, inclusão/exclusão, recorrências. Inversão de Moebius, Ações de grupos e semigrupos. Teoria dos Grafos: propriedades e teoremas fundamentais. Algoritmos em Grafos. Indução e Iteração, Órbitas e pontos fixos, Automato Celulares (AC), AC e Automatos Finitos, AC e Álgebra, AC e Computação."
   },
   {
     "period": 3,
     "code": "06223",
-    "name": "TEORIA DA COMPUTAÇÃO",
+    "name": "teoria da computação",
     "description": "Propriedades e operações com linguagens. Expressões regulares e gramáticas. Modelos de reconhecedores: autômatos finitos, autômatos a pilha, autômatos linearmente limitados, máquinas de Turing. Teorema de Kleene, equivalência entre autômatos à pilha e gramáticas. Hierarquia de Chomsky: linguagens regulares, livre de contexto, sensíveis ao contexto e recursivas. Propriedades de linguagens e funções recursivas. Tese de Church. Problemas indecidíveis: problema da parada, problema da correspondência de Post, redução entre problemas. Classes de problemas: P, NP, NP-Completo. PROCESSO N 11827/2016-57"
   },
   {
     "period": 3,
     "code": "06243",
-    "name": "ESTATÍSTICA EXPLORATÓRIA I",
+    "name": "estatística exploratória i",
     "description": "Experimentos aleatórios. Freqüência relativa. Probabilidade. Probabilidade condicionada. Variáveis aleatórias discretas e contínuas. Noções de amostragem. Distribuição de freqüência. Estimativas de parâmetros.Grá\u001ccos. Intervalos de Con\u001cança. Teste de hipótese. Ajustamento."
   },
   {
     "period": 3,
     "code": "06325",
-    "name": "FÍSICA APLICADA À COMPUTAÇÃO",
+    "name": "física aplicada à computação",
     "description": "Campo elétrico, Potencial elétrico, Capacitores e dielétricos. Circuitos elétricos, Campo magnético. Lei de Ampère. Indução Magnética. Propriedades magnéticas da matéria. Correntes alternadas. Equações de Maxwell. Ondas eletromagnéticas. Reflexão e refração da Luz. Polarização. Interferência e difração da Luz. Natureza ondulatória da Luz. Introdução a Física Moderna."
   },
   {
     "period": 3,
     "code": "14063",
-    "name": "CIRCUITOS DIGITAIS",
+    "name": "circuitos digitais",
     "description": "Bases numéricas: princípio de funcionamento e padrões de representação. Representações de números inteiros e fracionários nos sistemas digitais: representação em complemento a dois, em ponto-fixo e em ponto-flutuante. Eletrônica básica: circuitos elétricos e circuitos eletrônicos básicos. Implementação de portas lógicas com transistores e diodos. Famílias lógicas. Circuitos lógicos combinacionais: análise e síntese. Circuitos lógicos sequenciais: análise e síntese. Flip-flops, registradores, e memórias. Osciladores e relógios. Dispositivos lógicos programáveis. Introdução aos sistemas digitais. Implementação e análise de circuitos contadores, geradores de código e autômatos finitos. Linguagens de Descrição de Hardware (HDL), Padrões de codificação de projeto em linguagens de descrição de hardware. Modelagem e implementação de circuitos lógicos sequenciais e combinacionais por meio do uso de linguagens de descrição de hardware. Introdução à arquitetura de computadores."
   },
   {
     "period": 3,
     "code": "14087",
-    "name": "PROJETO E ANÁLISE DE ALGORITMOS",
+    "name": "projeto e análise de algoritmos",
     "description": "Medidas de complexidade, análise assintótica de limites de complexidade, técnicas de prova de cotas inferiores. Exemplos de análise de algoritmos iterativos e recursivos. Técnicas de projeto de algoritmos eficientes. Programação dinâmica. Algoritmos probabilísticos. PROCESSO N 11827/2016-57"
   },
   {
     "period": 4,
     "code": "06226",
-    "name": "ENGENHARIA DE SOFTWARE",
+    "name": "engenharia de software",
     "description": "Processos de software. Ciclo de vida de desenvolvimento de software. Modelagem de software. Introdução a Modelos de Qualidade e de Gerenciamento de projetos de software. Ambientes de desenvolvimento de software. Padrões de projeto. Técnicas de teste de software. Reuso de componentes de software."
   },
   {
     "period": 4,
     "code": "06252",
-    "name": "PARADIGMAS DE PROGRAMAÇÃO",
+    "name": "paradigmas de programação",
     "description": "Caracterização das linguagens de programação de computadores e de seus diferentes paradigmas de programação (lógico, procedural, funcional, orientação a objetos, concorrente, aspectos). Estudo de conceitos básicos para no que se refere a linguagens: implementação, estrutura de dados, abstração de dados, controle, tipos, escopo, subprograma, passagem de parâmetro, recursividade, sintaxe, semântica. PROCESSO 11827/2016-57"
   },
   {
     "period": 4,
     "code": "14058",
-    "name": "REDES DE COMPUTADORES",
+    "name": "redes de computadores",
     "description": "Tipos de enlace, códigos, modos e meios de transmissão. Protocolos e serviços de comunicação. Terminologia, topologias, modelos de arquitetura e aplicações. Especificação de protocolos. Internet e Intranets. Interconexão de redes. Redes de banda larga, ATM. Segurança e autenticação. Avaliação de desempenho."
   },
   {
     "period": 4,
     "code": "14064",
-    "name": "ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES",
+    "name": "arquitetura e organização de computadores",
     "description": "Organização de computadores: memórias, unidades centrais de processamento, entrada e saída. Linguagens de montagem. Modos de endereçamento e conjunto de instruções. Mecanismos de interrupção e de exceção. Barramento, comunicações, interfaces e periféricos. Subsistemas de entrada/saída. Organização hierárquica de memória. Arquiteturas RISC e CISC. Pipeline. Paralelismo de baixa granularidade. Processadores superescalares e superpipeline. Introdução à processadores vetoriais, matriciais, multiprocessadores e multicomputadores. Introdução a arquiteturas paralelas e não convencionais. Outras arquiteturas."
   },
   {
     "period": 4,
     "code": "14088",
-    "name": "BANCO DE DADOS S",
+    "name": "banco de dados s",
     "description": "Introdução aos Banco de Dados. Modelo de Dados. Modelagem Entite-Relacionamento. Projeto lógico e Físico de Banco de Dados. Sistemas de gerenciamento de bancos de dados (SGBD): arquitetura, segurança, integridade, concorrência, recuperação após falha, gerenciamento de transações. Linguagem SQL: DDL, DML, DCL. Normalização de Dados. Transações. Tecnicas de Programação em SQL. Segurança em Banco de Dados Relacional. Recuperação após Falha e Concorrência. Conectividade em Banco de Dados."
   },
   {
     "period": 5,
     "code": "06251",
-    "name": "PROJETO DE DESENVOLVIMENTO DE SOFTWARE",
+    "name": "projeto de desenvolvimento de software",
     "description": "Instanciação de um processo de desenvolvimento de software: fluxo, atividades, papéis e produtos de trabalho. Desenvolvimento de projeto multidisciplinar em equipe. Implementação de um produto de software. Uso de padrões de projeto e de codificação de software. Realização de testes automatizados de software. PROCESSO 11827/2016-57"
   },
   {
     "period": 5,
     "code": "14059",
-    "name": "SISTEMAS DISTRIBUÍDOS",
+    "name": "sistemas distribuídos",
     "description": "Conceitos Básicos. Paradigmas de Linguagens de Programação Distribuída. Técnicas de Especificação de Sistemas. Ambientes de Suporte e Desenvolvimento de Sistemas Distribuídos. Estudo de Casos. Aplicação Prática."
   },
   {
     "period": 5,
     "code": "14065",
-    "name": "SISTEMAS OPERACIONAIS",
+    "name": "sistemas operacionais",
     "description": "Software básico. Gerenciamento de memória. Memória virtual. Conceito de processo. Gerência de processador: escalonamento de processos, monoprocessamento e multiprocessamento. Concorrência e sincronização de processos. Alocação de recursos e deadlocks. Gerenciamento de arquivos. Gerenciamento de dispositivos de entrada/saída. Segurança. Exemplos de Sistemas Operacionais. Análise de desempenho."
   },
   {
     "period": 5,
     "code": "14074",
-    "name": "INTELIGÊNCIA ARTIFICIAL",
+    "name": "inteligência artificial",
     "description": "Definic¸o~es de IA. Agentes Inteligentes. Resoluc¸a~o de problemas por meio de busca: sem informac¸a~o e com informac¸a~o. Buscas locais para problemas de otimizac¸a~o. Introduc¸a~o a` aprendizagem de ma´quina. Aprendizagem supervisionada: baseada em instâncias, aprendizagem bayesiana. árvores de decisão, introdução às redes neurais. Aprendizagem não supervisionada. Aprendizagem por reforço. Lógica Fuzzy. PROCESSO N 11827/2016-57"
   },
   {
     "period": 5,
     "code": "14090",
-    "name": "COMPILADORES",
+    "name": "compiladores",
     "description": "Especificação da sintaxe de linguagens de programação com expressões regulares e gramáticas livres de contexto. Análise léxica. Análise sintática: ascendente e descendente. Geradores automáticos de lexers e parsers. Análise semântica. Geração de código intermediário e final. PROCESSO N 11827/2016- 57"
   },
   {
     "period": 7,
     "code": "14110",
-    "name": "ESTÁGIO SUPERVISIONADO OBRIGATÓRIO I - BACH COMPUTAÇÃO",
+    "name": "estágio supervisionado obrigatório i - bach computação",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": 8,
     "code": "14048",
-    "name": "PROJETO DE CONCLUSÃO DE CURSO",
+    "name": "projeto de conclusão de curso",
     "description": "Desenvolvimento do projeto associado ao trabalho de conclusão do discente."
   },
   {
     "period": 8,
     "code": "14111",
-    "name": "ESTÁGIO SUPERVISIONADO OBRIGATÓRIO II - BACH COMPUTAÇÃO",
+    "name": "estágio supervisionado obrigatório ii - bach computação",
     "description": "Nenhuma ementa cadastrada"
   },
   {
     "period": 9,
     "code": "04208",
-    "name": "EDUCAÇÃO FÍSICA A",
+    "name": "educação física a",
     "description": "Proporcionar aos acadêmicos condições para a prática desportiva que venha estimular suas atividades físicas, sociais e psicológicas, como tentativa para desenvolver o hábito de praticá-las de forma regular, buscando manter e/ou melhorar a qualidade de vida."
   },
   {
     "period": 9,
     "code": "14049",
-    "name": "TRABALHO DE CONCLUSÃO DE CURSO",
+    "name": "trabalho de conclusão de curso",
     "description": "Nenhuma ementa cadastrada"
   }
 ]

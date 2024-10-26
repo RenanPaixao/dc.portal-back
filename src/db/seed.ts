@@ -1,12 +1,9 @@
+import { clearDB } from './helpers.js'
 import { client, db } from './index.js'
 import * as schema from './schema.js'
 
 async function seed() {
-  await db.delete(schema.comments)
-  await db.delete(schema.coursesProfessors)
-  await db.delete(schema.users)
-  await db.delete(schema.courses)
-  await db.delete(schema.professors)
+  await clearDB()
 
   const professors = await db
     .insert(schema.professors)
@@ -36,7 +33,7 @@ async function seed() {
 
   db.insert(schema.coursesProfessors).values({
     courseId: courses[0].id,
-    year: 2020,
+    year: '2020.1',
     professorId: professors[0].id,
   })
 }
