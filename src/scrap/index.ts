@@ -72,7 +72,7 @@ async function scrapCoursesProfessors() {
     await page.locator('.menu_professor .disciplinas_ministradas a').click()
     await page.waitForSelector('#abas-turmas')
     const professorName = await page.$eval('#id-docente h3', async el => {
-      return el.innerHTML
+      return el.innerHTML.toLowerCase().trim()
     })
 
     const tab = await page.evaluateHandle(() => {
