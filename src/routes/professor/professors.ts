@@ -1,11 +1,11 @@
 import type { FastifyPluginAsyncZod } from 'fastify-type-provider-zod'
 import z from 'zod'
-import { getAllCourses, getCourseById } from '../../functions/course/courseFunctions.js'
+import { getAllProfessors, getProfessorById } from '../../functions/professor/professorFunctions.js'
 
-export const coursesRoute: FastifyPluginAsyncZod = async app => {
+export const professorsRoute: FastifyPluginAsyncZod = async app => {
   app.route({
     method: 'GET',
-    url: '/courses',
+    url: '/professors',
     schema: {
       querystring: z.object({
         offset: z.coerce.number().optional(),
@@ -13,21 +13,21 @@ export const coursesRoute: FastifyPluginAsyncZod = async app => {
       }),
     },
     handler: async (req, res) => {
-      const courses = await getAllCourses(req.query)
-      return res.send(courses)
+      const professors = await getAllProfessors(req.query)
+      return res.send(professors)
     },
   })
 
   app.route({
     method: 'GET',
-    url: '/courses/:id',
+    url: '/professors/:id',
     schema: {
       params: z.object({
         id: z.string(),
       }),
     },
     handler: async request => {
-      return getCourseById(request.params.id)
+      return getProfessorById(request.params.id)
     },
   })
 }
