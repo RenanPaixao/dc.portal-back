@@ -1,6 +1,6 @@
 import type { FastifyPluginAsyncZod } from 'fastify-type-provider-zod'
 import z from 'zod'
-import { getAllCourses, getCourseById } from '../../functions/course/courseFunctions.js'
+import { getAllCourses, getCourseById, searchByCourses } from '../../functions/course/courseFunctions.js'
 
 export const coursesRoute: FastifyPluginAsyncZod = async app => {
   app.route({
@@ -10,11 +10,31 @@ export const coursesRoute: FastifyPluginAsyncZod = async app => {
       querystring: z.object({
         offset: z.coerce.number().optional(),
         limit: z.coerce.number().optional(),
+        search: z.string().optional()
       }),
     },
     handler: async (req, res) => {
+      try {
+      
+      if(req.query.search){
+        const coursesSearched = await searchByCourses(req.query.search, {
+          offset: req.query.offset,
+          limit: req.query.limit
+        })
+        
+        return res.send(coursesSearched)
+      }
+      
       const courses = await getAllCourses(req.query)
       return res.send(courses)
+      
+      }catch(e) {
+        console.error(e)
+        
+        return res.code(500).send({
+          error: e
+        })
+      }
     },
   })
 

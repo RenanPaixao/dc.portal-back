@@ -1,4 +1,4 @@
-import { eq } from 'drizzle-orm'
+import { eq, ilike } from 'drizzle-orm'
 import { db } from '../../db/index.js'
 import { courses } from '../../db/schema.js'
 
@@ -11,6 +11,12 @@ export const getAllCourses = async (options?: ReqQueryParams) => {
   const { offset = 0, limit = Number.MAX_SAFE_INTEGER } = options ?? {}
 
   return db.select().from(courses).offset(offset).limit(limit)
+}
+
+export const searchByCourses = (term: string, options?: ReqQueryParams) => {
+  const { offset = 0, limit = Number.MAX_SAFE_INTEGER } = options ?? {}
+  
+  return db.select().from(courses).where(ilike(courses.name, `%${term}%`)).offset(offset).limit(limit)
 }
 
 export const getCourseById = async (id: string) => {
