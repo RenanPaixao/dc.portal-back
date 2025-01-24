@@ -1,5 +1,6 @@
 import type { FastifyPluginAsyncZod } from 'fastify-type-provider-zod'
 import z from 'zod'
+import { getCommentsByProfessorId } from '../../functions/comments/commentsFunctions.js'
 import { getAllProfessors, getProfessorById, searchByProfessors } from '../../functions/professor/professorFunctions.js'
 
 export const professorsRoute: FastifyPluginAsyncZod = async app => {
@@ -37,6 +38,19 @@ export const professorsRoute: FastifyPluginAsyncZod = async app => {
     },
     handler: async request => {
       return getProfessorById(request.params.id)
+    },
+  })
+  
+  app.route({
+    method: 'GET',
+    url: '/professors/:id/comments',
+    schema: {
+      params: z.object({
+        id: z.string(),
+      }),
+    },
+    handler: async request => {
+      return getCommentsByProfessorId(request.params.id)
     },
   })
 }
