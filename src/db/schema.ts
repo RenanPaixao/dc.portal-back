@@ -44,7 +44,8 @@ export const comments = pgTable('comments', {
     .primaryKey()
     .$defaultFn(() => createId()),
   userId: text('user_id').references(() => users.id),
-  body: text('body').notNull(),
+  body: text('body'),
+  rating: integer('rating').notNull(),
   createdAt: timestamp('created_at', { withTimezone: true }).notNull().defaultNow(),
   updatedAt: timestamp('updated_at', { withTimezone: true }).notNull().defaultNow(),
   courseId: text('course_id').references(() => courses.id),

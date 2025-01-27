@@ -43,6 +43,13 @@
       "when": 1729984250817,
       "tag": "0005_strong_stranger",
       "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1737939863087,
+      "tag": "0006_vengeful_joseph",
+      "breakpoints": true
     }
   ]
 }
