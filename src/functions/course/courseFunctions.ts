@@ -1,6 +1,6 @@
 import { eq, ilike } from 'drizzle-orm'
 import { db } from '../../db/index.js'
-import { courses } from '../../db/schema.js'
+import { comments, courses } from '../../db/schema.js'
 
 interface ReqQueryParams {
   offset?: number
@@ -25,4 +25,11 @@ export const getCourseById = async (id: string) => {
     .from(courses)
     .where(eq(courses.id, id))
     .then(res => res[0])
+}
+
+export const getCourseRating = async (id: string) => {
+  const allComments = await db.select().from(comments).where(eq(comments.courseId, id))
+  
+  console.log(allComments)
+  return allComments.reduce((acc, comment) => acc + comment.rating, 0) / allComments.length
 }
