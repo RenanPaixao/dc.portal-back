@@ -1,4 +1,4 @@
-import { eq, ilike } from 'drizzle-orm'
+import { and, eq, ilike, isNotNull } from 'drizzle-orm'
 import { db } from '../../db/index.js'
 import { comments, courses } from '../../db/schema.js'
 
@@ -30,6 +30,33 @@ export const getCourseById = async (id: string) => {
 export const getCourseRating = async (id: string) => {
   const allComments = await db.select().from(comments).where(eq(comments.courseId, id))
   
-  console.log(allComments)
   return allComments.reduce((acc, comment) => acc + comment.rating, 0) / allComments.length
+}
+
+export const getTopCoursesByRating = async () => {
+  const allComments = await db.select().from(comments).where(and(isNotNull(comments.rating), isNotNull(comments.courseId)))
+  
+  const commentByCourse: Record<string, typeof comments.$inferSelect[]> = {}
+  
+  for (const comment of allComments) {
+    if(!comment.courseId){
+      continue
+    }
+    
+    if(!commentByCourse[comment.courseId]){
+      commentByCourse[comment.courseId] = []
+    }
+    
+    commentByCourse[comment.courseId].push(comment)
+  }
+  
+  return Object.entries(commentByCourse).map(([courseId, comments]) => {
+    const rating = comments.reduce((acc, comment) => acc + comment.rating, 0) / comments.length
+    
+    return {
+      courseId,
+      rating
+    }
+  }).sort((a, b) => b.rating - a.rating)
+    .slice(0, 10)
 }

@@ -4,7 +4,7 @@ import { getCommentsByCourseId } from '../../functions/comments/commentsFunction
 import {
   getAllCourses,
   getCourseById,
-  getCourseRating,
+  getCourseRating, getTopCoursesByRating,
   searchByCourses
 } from '../../functions/course/courseFunctions.js'
 
@@ -83,6 +83,18 @@ export const coursesRoute: FastifyPluginAsyncZod = async app => {
       
       return rep.send({
         rating
+      })
+    },
+  })
+  
+  app.route({
+    method: 'GET',
+    url: '/courses/top',
+    handler: async (_, rep) => {
+      const topTen = await getTopCoursesByRating()
+      
+      return rep.send({
+        top: topTen
       })
     },
   })
