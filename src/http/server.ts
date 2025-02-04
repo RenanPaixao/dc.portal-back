@@ -4,6 +4,7 @@ import { type ZodTypeProvider, serializerCompiler, validatorCompiler } from 'fas
 import { commentsRoute } from '../routes/comments/comments.js'
 import { coursesRoute } from '../routes/course/course.js'
 import { professorsRoute } from '../routes/professor/professors.js'
+import { searchRoute } from '../routes/search/search.js'
 
 const app = fastify()
 const PORT = 8888
@@ -15,6 +16,7 @@ app.setSerializerCompiler(serializerCompiler)
 app.register(coursesRoute)
 app.register(professorsRoute)
 app.register(commentsRoute)
+app.register(searchRoute)
 
 app.listen({ port: PORT }).then(() => {
   console.log(`Server listening on port http://localhost:${PORT}`)

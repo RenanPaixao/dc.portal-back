@@ -1,11 +1,7 @@
 import { eq, ilike } from 'drizzle-orm'
 import { db } from '../../db/index.js'
 import { professors } from '../../db/schema.js'
-
-interface ReqQueryParams {
-  offset?: number
-  limit?: number
-}
+import type { ReqQueryParams } from '../types.js'
 
 export const getAllProfessors = async (options?: ReqQueryParams) => {
   const { offset = 0, limit = Number.MAX_SAFE_INTEGER } = options ?? {}
@@ -15,8 +11,13 @@ export const getAllProfessors = async (options?: ReqQueryParams) => {
 
 export const searchByProfessors = async (term: string, options?: ReqQueryParams) => {
   const { offset = 0, limit = Number.MAX_SAFE_INTEGER } = options ?? {}
-  
-  return db.select().from(professors).where(ilike(professors.name, `%${term}%`)).offset(offset).limit(limit)
+
+  return db
+    .select()
+    .from(professors)
+    .where(ilike(professors.name, `%${term}%`))
+    .offset(offset)
+    .limit(limit)
 }
 
 export const getProfessorById = async (id: string) => {

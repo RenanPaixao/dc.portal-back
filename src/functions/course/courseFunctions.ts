@@ -1,11 +1,7 @@
 import { and, eq, ilike, isNotNull } from 'drizzle-orm'
 import { db } from '../../db/index.js'
 import { comments, courses } from '../../db/schema.js'
-
-interface ReqQueryParams {
-  offset?: number
-  limit?: number
-}
+import type { ReqQueryParams } from '../types.js'
 
 export const getAllCourses = async (options?: ReqQueryParams) => {
   const { offset = 0, limit = Number.MAX_SAFE_INTEGER } = options ?? {}
@@ -15,8 +11,13 @@ export const getAllCourses = async (options?: ReqQueryParams) => {
 
 export const searchByCourses = (term: string, options?: ReqQueryParams) => {
   const { offset = 0, limit = Number.MAX_SAFE_INTEGER } = options ?? {}
-  
-  return db.select().from(courses).where(ilike(courses.name, `%${term}%`)).offset(offset).limit(limit)
+
+  return db
+    .select()
+    .from(courses)
+    .where(ilike(courses.name, `%${term}%`))
+    .offset(offset)
+    .limit(limit)
 }
 
 export const getCourseById = async (id: string) => {
@@ -29,34 +30,39 @@ export const getCourseById = async (id: string) => {
 
 export const getCourseRating = async (id: string) => {
   const allComments = await db.select().from(comments).where(eq(comments.courseId, id))
-  
+
   return allComments.reduce((acc, comment) => acc + comment.rating, 0) / allComments.length
 }
 
 export const getTopCoursesByRating = async () => {
-  const allComments = await db.select().from(comments).where(and(isNotNull(comments.rating), isNotNull(comments.courseId)))
-  
-  const commentByCourse: Record<string, typeof comments.$inferSelect[]> = {}
-  
+  const allComments = await db
+    .select()
+    .from(comments)
+    .where(and(isNotNull(comments.rating), isNotNull(comments.courseId)))
+
+  const commentByCourse: Record<string, (typeof comments.$inferSelect)[]> = {}
+
   for (const comment of allComments) {
-    if(!comment.courseId){
+    if (!comment.courseId) {
       continue
     }
-    
-    if(!commentByCourse[comment.courseId]){
+
+    if (!commentByCourse[comment.courseId]) {
       commentByCourse[comment.courseId] = []
     }
-    
+
     commentByCourse[comment.courseId].push(comment)
   }
-  
-  return Object.entries(commentByCourse).map(([courseId, comments]) => {
-    const rating = comments.reduce((acc, comment) => acc + comment.rating, 0) / comments.length
-    
-    return {
-      courseId,
-      rating
-    }
-  }).sort((a, b) => b.rating - a.rating)
+
+  return Object.entries(commentByCourse)
+    .map(([courseId, comments]) => {
+      const rating = comments.reduce((acc, comment) => acc + comment.rating, 0) / comments.length
+
+      return {
+        courseId,
+        rating,
+      }
+    })
+    .sort((a, b) => b.rating - a.rating)
     .slice(0, 10)
 }
