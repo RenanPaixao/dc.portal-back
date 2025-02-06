@@ -1,3 +1,4 @@
+import fastifyCors from '@fastify/cors'
 import postgres from '@fastify/postgres'
 import fastify from 'fastify'
 import { type ZodTypeProvider, serializerCompiler, validatorCompiler } from 'fastify-type-provider-zod'
@@ -12,6 +13,10 @@ const PORT = 8888
 app.register(postgres, {}).withTypeProvider<ZodTypeProvider>()
 app.setValidatorCompiler(validatorCompiler)
 app.setSerializerCompiler(serializerCompiler)
+app.register(fastifyCors, {
+  origin: '*',
+  methods: ['GET', 'POST', 'PUT', 'DELETE'],
+})
 
 app.register(coursesRoute)
 app.register(professorsRoute)
