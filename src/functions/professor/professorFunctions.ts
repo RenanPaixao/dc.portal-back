@@ -1,4 +1,4 @@
-import { eq, ilike } from 'drizzle-orm'
+import { count, eq, ilike } from 'drizzle-orm'
 import { db } from '../../db/index.js'
 import { professors } from '../../db/schema.js'
 import type { ReqQueryParams } from '../types.js'
@@ -7,6 +7,10 @@ export const getAllProfessors = async (options?: ReqQueryParams) => {
   const { offset = 0, limit = Number.MAX_SAFE_INTEGER } = options ?? {}
 
   return db.select().from(professors).offset(offset).limit(limit)
+}
+
+export const getProfessorsCount = async () => {
+  return db.select({ count: count() }).from(professors)
 }
 
 export const searchByProfessors = async (term: string, options?: ReqQueryParams) => {
