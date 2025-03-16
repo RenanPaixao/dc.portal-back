@@ -1,4 +1,4 @@
-import { and, eq, ilike, isNotNull } from 'drizzle-orm'
+import { and, count, eq, ilike, isNotNull } from 'drizzle-orm'
 import { db } from '../../db/index.js'
 import { comments, courses } from '../../db/schema.js'
 import type { ReqQueryParams } from '../types.js'
@@ -7,6 +7,10 @@ export const getAllCourses = async (options?: ReqQueryParams) => {
   const { offset = 0, limit = Number.MAX_SAFE_INTEGER } = options ?? {}
 
   return db.select().from(courses).offset(offset).limit(limit)
+}
+
+export const getCoursesCount = async () => {
+  return db.select({ count: count() }).from(courses)
 }
 
 export const searchByCourses = (term: string, options?: ReqQueryParams) => {

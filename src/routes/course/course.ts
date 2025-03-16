@@ -4,8 +4,10 @@ import { getCommentsByCourseId } from '../../functions/comments/commentsFunction
 import {
   getAllCourses,
   getCourseById,
-  getCourseRating, getTopCoursesByRating,
-  searchByCourses
+  getCourseRating,
+  getCoursesCount,
+  getTopCoursesByRating,
+  searchByCourses,
 } from '../../functions/course/courseFunctions.js'
 
 export const coursesRoute: FastifyPluginAsyncZod = async app => {
@@ -16,29 +18,33 @@ export const coursesRoute: FastifyPluginAsyncZod = async app => {
       querystring: z.object({
         offset: z.coerce.number().optional(),
         limit: z.coerce.number().optional(),
-        search: z.string().optional()
+        search: z.string().optional(),
+        count: z.string().optional(),
       }),
     },
     handler: async (req, res) => {
       try {
-      
-      if(req.query.search){
-        const coursesSearched = await searchByCourses(req.query.search, {
-          offset: req.query.offset,
-          limit: req.query.limit
+        if (req.query.search) {
+          const coursesSearched = await searchByCourses(req.query.search, {
+            offset: req.query.offset,
+            limit: req.query.limit,
+          })
+
+          return res.send(coursesSearched)
+        }
+
+        const count = req.query.count === 'true' ? await getCoursesCount() : null
+
+        const courses = await getAllCourses(req.query)
+        return res.send({
+          courses,
+          count: count?.[0].count ?? null,
         })
-        
-        return res.send(coursesSearched)
-      }
-      
-      const courses = await getAllCourses(req.query)
-      return res.send(courses)
-      
-      }catch(e) {
+      } catch (e) {
         console.error(e)
-        
+
         return res.code(500).send({
-          error: e
+          error: e,
         })
       }
     },
@@ -56,7 +62,7 @@ export const coursesRoute: FastifyPluginAsyncZod = async app => {
       return getCourseById(request.params.id)
     },
   })
-  
+
   app.route({
     method: 'GET',
     url: '/courses/:id/comments',
@@ -69,7 +75,7 @@ export const coursesRoute: FastifyPluginAsyncZod = async app => {
       return getCommentsByCourseId(request.params.id)
     },
   })
-  
+
   app.route({
     method: 'GET',
     url: '/courses/:id/rating',
@@ -80,21 +86,21 @@ export const coursesRoute: FastifyPluginAsyncZod = async app => {
     },
     handler: async (req, rep) => {
       const rating = await getCourseRating(req.params.id)
-      
+
       return rep.send({
-        rating
+        rating,
       })
     },
   })
-  
+
   app.route({
     method: 'GET',
     url: '/courses/top',
     handler: async (_, rep) => {
       const topTen = await getTopCoursesByRating()
-      
+
       return rep.send({
-        top: topTen
+        top: topTen,
       })
     },
   })
