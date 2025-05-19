@@ -16,8 +16,8 @@
   },
   {
     "name": "andre aziz camilo de araujo",
-    "email": "andreaziz@gmail.com",
-    "profileImg": null
+    "email": "não informado",
+    "profileImg": "https://arquivos-producao.sigs.ufrpe.br/arquivos/20251330258f433683649e1d9671668e4/WhatsApp_Image_2024-03-20_at_00.31.32-new.jpeg"
   },
   {
     "name": "andre camara alves do nascimento",
@@ -46,7 +46,7 @@
   },
   {
     "name": "ermeson carneiro de andrade",
-    "email": "ermeson.andrade@ufrpe.br",
+    "email": "ermeson@gmail.com",
     "profileImg": "https://arquivos-producao.sigs.ufrpe.br/arquivos/20201821789ce02004216a29800aeea20/eu.jpg"
   },
   {
@@ -65,18 +65,13 @@
     "profileImg": "https://arquivos-producao.sigs.ufrpe.br/arquivos/202025322681f42000888395495581e93/3por4.jpg"
   },
   {
-    "name": "francisco paulo magalhaes simoes",
-    "email": "francisco.simoes@ufrpe.br",
-    "profileImg": "https://arquivos-producao.sigs.ufrpe.br/arquivos/2022179094cd592442503e62507bbcb0c/profile.jpg"
-  },
-  {
     "name": "george augusto valenca santos",
     "email": "george.valenca@ufrpe.br",
     "profileImg": "https://arquivos-producao.sigs.ufrpe.br/arquivos/2023137054434f298657530637cfd1e97/George_Valena_V2.png"
   },
   {
     "name": "george gomes cabral",
-    "email": "george.gcabral@ufrpe.br",
+    "email": "george.cabral@gmail.com",
     "profileImg": null
   },
   {
@@ -155,11 +150,6 @@
     "profileImg": "https://arquivos-producao.sigs.ufrpe.br/arquivos/2021092195bcfe2130242137a575e9285/Millena-3x4.jpg"
   },
   {
-    "name": "obionor de oliveira nobrega",
-    "email": "obionor.nobrega@ufrpe.br",
-    "profileImg": "https://arquivos-producao.sigs.ufrpe.br/arquivos/2022074043209d2557172e79a43df3966/Foto_Obionor_Nbrega.jpg"
-  },
-  {
     "name": "pablo azevedo sampaio",
     "email": "pablo.sampaio@ufrpe.br",
     "profileImg": null
@@ -196,7 +186,7 @@
   },
   {
     "name": "rinaldo jose de lima",
-    "email": "rinaldo.jose@ufrpe.br",
+    "email": "RJLIMA01@GMAIL.COM",
     "profileImg": "https://arquivos-producao.sigs.ufrpe.br/arquivos/20200792227c662040522557113d5fbc4/Rinaldo_Foto.png"
   },
   {
@@ -243,5 +233,20 @@
     "name": "vitor de andrade coutinho",
     "email": "vitor.coutinho@ufrpe.br",
     "profileImg": "https://arquivos-producao.sigs.ufrpe.br/arquivos/2022127210dfa3260982363ea6de404d2/Screenshot_from_2022-10-24_21-24-27.png"
+  },
+  {
+    "name": "obionor de oliveira nobrega",
+    "email": "obionor.nobrega@ufrpe.br",
+    "profileImg": "https://arquivos-producao.sigs.ufrpe.br/arquivos/2022074043209d2557172e79a43df3966/Foto_Obionor_Nbrega.jpg"
+  },
+  {
+    "name": "erdilania morais marinho chaves",
+    "email": "ERDILANIA.MORAIS@UFRPE.BR",
+    "profileImg": null
+  },
+  {
+    "name": "lucas fernando da silva cambuim",
+    "email": "lucas.cambuim@ufrpe.br",
+    "profileImg": "https://arquivos-producao.sigs.ufrpe.br/arquivos/2024064233d8c53496383a4893751a274/oficial.jpg"
   }
 ]

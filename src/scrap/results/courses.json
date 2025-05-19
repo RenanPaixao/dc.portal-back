@@ -726,6 +726,12 @@
     "description": "Tópicos a serem estudados incluem: modelagem determinística e estocástica, geração de números e variáveis aleatórias, simulação de sistemas de eventos discretos, desenvolvimento da simulação, validação do modelo e análise dos resultados das simulações. Linguagens de simulação. Planejamento de capacidade, planejamento de experimentos, análise de sensibilidade e técnicas de injeção de falhas."
   },
   {
+    "period": null,
+    "code": "28022",
+    "name": "tópicos avançados em design e interação humano-computador",
+    "description": "1. Valor e Expectativas dos Usuários 2. Fatores Culturais 3. Ética no Processo de Design 4. Metodologias Clássicas de Design e Interação Humano-Computador – visão geral 5. Novas Metodologias de Design e Interação Humano-Computador"
+  },
+  {
     "period": 1,
     "code": "06418",
     "name": "álgebra vetorial e linear para computação",
