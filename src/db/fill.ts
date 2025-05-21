@@ -63,6 +63,7 @@ async function fillCoursesProfessors() {
   }
 }
 
+// TODO: Make it an upsert
 Promise.all([fillCourses(), fillProfessors()])
   .then(async () => {
     await fillCoursesProfessors()

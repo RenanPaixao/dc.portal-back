@@ -4,8 +4,9 @@ import { getCommentsByProfessorId } from '../../functions/comments/commentsFunct
 import {
   getAllProfessors,
   getProfessorById,
+  getProfessorCourses,
   getProfessorsCount,
-  searchByProfessors,
+  searchByProfessors
 } from '../../functions/professor/professorFunctions.js'
 
 export const professorsRoute: FastifyPluginAsyncZod = async app => {
@@ -62,6 +63,19 @@ export const professorsRoute: FastifyPluginAsyncZod = async app => {
     },
     handler: async request => {
       return getCommentsByProfessorId(request.params.id)
+    },
+  })
+  
+  app.route({
+    method: 'GET',
+    url: '/professors/:id/courses',
+    schema: {
+      params: z.object({
+        id: z.string(),
+      }),
+    },
+    handler: async request => {
+      return getProfessorCourses(request.params.id)
     },
   })
 }
